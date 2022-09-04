@@ -14,4 +14,13 @@
 - サイドバーにカテゴリ別，タグ別への一覧リンクを作成
 - サイドバーに最新記事一覧を設置
 - 記事の移行
-- 
+ 
+
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
