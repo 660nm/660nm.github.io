@@ -5,8 +5,6 @@
 layout: home
 ---
 
-## 現在移植作業中です
-
 github pages環境へ移植中です．旧ブログは[こちら](https://diracconstant6582evs.blog.fc2.com/)
 
 
