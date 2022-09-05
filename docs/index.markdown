@@ -5,5 +5,8 @@
 layout: home
 ---
 
+# 660nmへようこそ
 
-test test
+github pages環境へ移植中です．旧ブログは[こちら](https://diracconstant6582evs.blog.fc2.com/)
+
+
