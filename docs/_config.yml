@@ -18,17 +18,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 660nm
+title: personal website
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  blog about aquarium, especially about freshwater waterplants and small fishes.
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://dirac6582.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+github_username:  dirac6582
+repository: dirac6582/dirac6582.github.io.git
 
 # Build settings
-#theme: minima
+# if you are using minima, then check https://github.com/jekyll/minima for more information
+# theme: minima
 #plugins:
 #  - jekyll-feed
 
@@ -52,76 +56,82 @@ github_username:  jekyll
 #   - vendor/gems/
 #   - vendor/ruby/
 
+# https://github.com/jekyll/minima/blob/master/_layouts/default.html
+#remote_theme: jekyll/minimal # original
+#  skin: solarized-light
 
- # Remote_theme
- remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-
-
- plugins:
-    - jekyll-remote-theme # add this line to the plugins list if you already have one
-    - jekyll-feed
-    - jekyll-include-cache # for mm mistakes
-
- header_pages:
-   - about.md
-   - index.md
+# remote_theme: pages-themes/minimal # minimal
+# remote_theme: pages-themes/minimal@v0.2.0
+  
+# remote_theme
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 
-   # Defaults
- defaults:
-   # _posts
-   - scope:
-       path: ""
-       type: posts
-     values:
-       layout: single
-       author_profile: true
-       read_time: true
-       comments: true
-       share: true
-       related: true
-   # _pages
-   - scope:
-       path: "pages"
-       type: pages
-     values:
-       layout: single
-       author_profile: true
-   # _docs
-   - scope:
-       path: ""
-       type: docs
-     values:
-       layout: single
-       read_time: false
-       author_profile: false
-       share: false
-       comments: false
-       sidebar:
-         nav: "docs"
-   # _recipes
-   - scope:
-       path: ""
-       type: recipes
-     values:
-       layout: single
-       author_profile: true
-       share: true
-       comments: true
-   # _pets
-   - scope:
-       path: ""
-       type: pets
-     values:
-       layout: single
-       author_profile: true
-       share: true
-       comment: true
-   # _portfolio
-   - scope:
-       path: ""
-       type: portfolio
-     values:
-       layout: single
-       author_profile: false
-       share: true
+plugins:
+   - jekyll-remote-theme # add this line to the plugins list if you already have one
+   - jekyll-feed
+   - jekyll-include-cache # for mm mistakes
+
+header_pages:
+  - about.md
+  - index.md
+  
+
+  # Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "docs"
+  # _recipes
+  - scope:
+      path: ""
+      type: recipes
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _pets
+  - scope:
+      path: ""
+      type: pets
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
