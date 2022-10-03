@@ -28,9 +28,9 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+#theme: minima
+#plugins:
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -51,3 +51,77 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+ # Remote_theme
+ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+
+ plugins:
+    - jekyll-remote-theme # add this line to the plugins list if you already have one
+    - jekyll-feed
+    - jekyll-include-cache # for mm mistakes
+
+ header_pages:
+   - about.md
+   - index.md
+
+
+   # Defaults
+ defaults:
+   # _posts
+   - scope:
+       path: ""
+       type: posts
+     values:
+       layout: single
+       author_profile: true
+       read_time: true
+       comments: true
+       share: true
+       related: true
+   # _pages
+   - scope:
+       path: "pages"
+       type: pages
+     values:
+       layout: single
+       author_profile: true
+   # _docs
+   - scope:
+       path: ""
+       type: docs
+     values:
+       layout: single
+       read_time: false
+       author_profile: false
+       share: false
+       comments: false
+       sidebar:
+         nav: "docs"
+   # _recipes
+   - scope:
+       path: ""
+       type: recipes
+     values:
+       layout: single
+       author_profile: true
+       share: true
+       comments: true
+   # _pets
+   - scope:
+       path: ""
+       type: pets
+     values:
+       layout: single
+       author_profile: true
+       share: true
+       comment: true
+   # _portfolio
+   - scope:
+       path: ""
+       type: portfolio
+     values:
+       layout: single
+       author_profile: false
+       share: true
