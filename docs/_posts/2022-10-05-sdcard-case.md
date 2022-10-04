@@ -8,6 +8,8 @@ tags:
  - photo
 header:
   teaser: "https://lh3.googleusercontent.com/a6RP6zpXPb2LtWuuJlbULj_gI4FTbKQfGV4dNfFMWDJovLy_VDSQyHb3ZXQel_VvE644jZDR4EIQt8dXP4il6DMgz1f8zAPew0cPgKaf6RLy6benKIVVw_Awq6mmV5m0iaLwsCKl=s0"
+description: >-
+  特に急ぎという訳ではないのですが，SDカードケースを購入したのでその紹介をしました．HAKUBAから出ている8枚収納できるハードタイプのケースです．旅行に持っていくというよりは家の中で散らばりがちなカードの保管場所として活用していこうと思います．
 ---
 
 ## SDカードケース

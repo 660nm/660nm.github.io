@@ -161,7 +161,9 @@ defaults:
       share: true
       related: true
       sidebar:
-  # _pages
+       - title: "Title"
+
+# _pages
   - scope:
       path: "pages"
       type: pages
@@ -207,10 +209,9 @@ defaults:
       author_profile: false
       share: true
 
-#         - title: "Title"
-#          image: "/assets/images/author.jpg"
-#          image_alt: "image"
-#          text: "Some text here."
-#        - title: "Another Title"
-#          text: "More text here."
-#          nav: sidebar-sample
+       #   image: "/assets/images/author.jpg"
+       #   image_alt: "image"
+       #   text: "Some text here."
+       # - title: "Another Title"
+       #   text: "More text here."
+       #   nav: sidebar-sample

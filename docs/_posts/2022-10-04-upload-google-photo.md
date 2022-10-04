@@ -8,6 +8,8 @@ tags:
  - photo
 header:
   teaser: "https://lh3.googleusercontent.com/8LiGzc4UxbL9dI30V1z8ZBSAioVoCZlXXLX9vyN5zhz-eUTtTC5wswUpn1Bg3wMSJwJVxtMNeAKcOdGcPGgjwZ_gzWNiCiNlzs0c9GDnsgMyv0TH_NgVC3_tNZRb-37DXlYmCjEG"
+description: >-
+  github pages形式のブログにgoogle photoから画像を埋め込む方法について解説しています．hogehoge　　hogehoge　　hogehoge　　hogehoge　　hogehoge　　hogehoge　　hogehoge　　
 ---
 
 ## github pageをブログに使う場合の画像の取り扱い

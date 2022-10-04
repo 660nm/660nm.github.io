@@ -1,4 +1,5 @@
-{% if post.header.teaser %}
+
+0;95;0c{% if post.header.teaser %}
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
 {% else %}
   {% assign teaser = site.teaser %}
@@ -21,12 +22,17 @@
     </h2>
     {% include page__meta.html type=include.type %}
 
+    <div class="archive__item-subbox">
     {% if include.type == "grid" or teaser %} 
       <div class="archive__item-teaser">
         <img src="{{ teaser | relative_url }}" alt="" > 
       </div>
     {% endif %}
-
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 200 }}</p>{% endif %}
+      {% if post.description %}
+       <div class="archive__item-excerpt-content">
+	 <p class="archive__item-excerpt" itemprop="description">{{ post.description | truncate: 200 }}</p>
+       </div>
+      {% endif %}
+    </div>
   </article>
 </div>

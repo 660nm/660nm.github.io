@@ -8,22 +8,42 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+.archive__item-subbox {
+  position: relative;
+  overflow: hidden;    
+}
 
-.archive__item-teaser {
+// カスタム for 
+.archive__item-teaser-blog {
   position: relative;
   border-radius: $border-radius;
   overflow: hidden;
-
+  float: left;
+  width: 40%;
+  margin: 2.5%;
+  margin-top: 0;
   img {
-      width: 40%;
-      float:left";
+      width: 100%;
       // width: calc((100% - #{$right-sidebar-width-narrow})*0.4);
   }
 }
 
+.archive__item-excerpt-content {
+  width: 55%;
+  overflow: hidden;
+  float: left;    
+}
 
-/* 画面幅の50%の幅で画像を表示 */
-img.image-vw {
-    width: calc((100% - #{$right-sidebar-width-narrow})*0.4);
-    
+.archive__item-excerpt {
+  margin-top: 0;
+  font-size: $type-size-6;
+
+  & + p {
+    text-indent: 0;
+  }
+
+  a {
+//    position: fixed;      
+    position: relative;
+  }
 }
