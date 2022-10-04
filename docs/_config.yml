@@ -12,6 +12,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
+
+# ---------------------
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
@@ -27,9 +29,11 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dirac6582.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  dirac6582
-repository: dirac6582/dirac6582.github.io.git
+github_username:  660nm
+repository: 660nm/660nm.github.io.git
+locale                   : "ja-JP"  # 日本語を扱うなら変更しておく
 
+# -------------------
 # Build settings
 # if you are using minima, then check https://github.com/jekyll/minima for more information
 # theme: minima
@@ -66,19 +70,56 @@ repository: dirac6582/dirac6582.github.io.git
 # remote_theme
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
-
+# ---------------------------
+# Plugins
 plugins:
    - jekyll-remote-theme # add this line to the plugins list if you already have one
    - jekyll-feed
    - jekyll-include-cache # for mm mistakes
 
+# Plugins
+gems:
+  - jekyll-archives
+
+
+# Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path/my-awesome-category/index.html ~> path: /
+category_archive:
+  type: jekyll-archives  # liquid から jekyll-archives に変更する
+  path: /categories/
+tag_archive:
+  type: jekyll-archives  # liquid から jekyll-archives に変更する
+  path: /tags/
+
+# https://github.com/jekyll/jekyll-archives
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
+
+
+  
 header_pages:
   - about.md
   - index.md
 
 author:
   name: "660nm"
-  avatar: "asset/images/author.jpg"
+  avatar: "assets/images/author.jpg"
   bio: "hoge"
   location: "Tokyo, Japan"
     
@@ -98,8 +139,8 @@ defaults:
       related: true
       sidebar:
         - title: "Title"
-          image: "/assets/images/author.jpg"
-          image_alt: "image"
+#          image: "/assets/images/author.jpg"
+#          image_alt: "image"
           text: "Some text here."
         - title: "Another Title"
           text: "More text here."
