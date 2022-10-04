@@ -6,6 +6,8 @@ categories:
 tags:
  - google
  - photo
+header:
+  teaser: "https://lh3.googleusercontent.com/8LiGzc4UxbL9dI30V1z8ZBSAioVoCZlXXLX9vyN5zhz-eUTtTC5wswUpn1Bg3wMSJwJVxtMNeAKcOdGcPGgjwZ_gzWNiCiNlzs0c9GDnsgMyv0TH_NgVC3_tNZRb-37DXlYmCjEG"
 ---
 
 ## github pageをブログに使う場合の画像の取り扱い
