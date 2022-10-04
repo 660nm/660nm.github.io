@@ -25,6 +25,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: bundle install
+        run: |
+          bundle config set path 'vendor/bundle'
+          bundle install
       - name: Checkout
         uses: actions/checkout@v3
       - name: Setup Pages
