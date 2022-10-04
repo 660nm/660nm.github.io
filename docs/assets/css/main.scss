@@ -15,7 +15,9 @@ search: false
   overflow: hidden;
 
   img {
-    width: calc((100% - #{$right-sidebar-width-narrow})*0.4);
+      width: 40%;
+      float:left";
+      // width: calc((100% - #{$right-sidebar-width-narrow})*0.4);
   }
 }
 
