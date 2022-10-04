@@ -41,7 +41,8 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           jekyll_src: './docs/'
-
+          build_dir:  './docs/site'
+          
   #         - name: Build with Jekyll
   #       uses: actions/jekyll-build-pages@v1
   #       with:
