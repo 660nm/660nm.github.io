@@ -2,6 +2,9 @@
 title:  "google photoの画像を埋め込む"
 date:   2022-10-4 3:00:00 +0900
 categories: google photo
+tags:
+ - google
+ - photo
 ---
 
 ## github pageをブログに使う場合の画像の取り扱い
