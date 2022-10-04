@@ -44,7 +44,9 @@ jobs:
       #     jekyll_src: './docs/'
       #     build_dir:  './docs/site'
       #     target_branch: 'master'
-         
+      - name: where bundle ?
+        run: |
+          which bundle
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
