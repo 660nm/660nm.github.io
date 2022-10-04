@@ -37,12 +37,12 @@ jobs:
         run: |
           bundle config set path 'vendor/bundle'
           bundle install --gemfile='./docs/Gemfile'
-      - uses: helaili/jekyll-action@v2
+      - uses: helaili/jekyll-action@2.4.5 
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           jekyll_src: './docs/'
           build_dir:  './docs/site'
-          target_branch: 'master'          
+          target_branch: 'gh-pages'          
   #         - name: Build with Jekyll
   #       uses: actions/jekyll-build-pages@v1
   #       with:
