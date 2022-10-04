@@ -50,7 +50,7 @@ jobs:
           source: ./docs/
           destination: ./docs/_site/
       - name: Jekyll Build
-        run: jekyll build --source ./docs/ --destination ./docs/_site/
+        run: bundle exec --gemfile=./docs/Gemfile jekyll build --source ./docs/ --destination ./docs/_site/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
