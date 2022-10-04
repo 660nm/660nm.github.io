@@ -8,6 +8,18 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+
+.archive__item-teaser {
+  position: relative;
+  border-radius: $border-radius;
+  overflow: hidden;
+
+  img {
+    width: calc((100% - #{$right-sidebar-width-narrow})*0.4);
+  }
+}
+
+
 /* 画面幅の50%の幅で画像を表示 */
 img.image-vw {
     width: calc((100% - #{$right-sidebar-width-narrow})*0.4);
