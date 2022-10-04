@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "github-pagesを使ったブログの作り方 part2"
 date:   2022-09-05 10:00:00 +0900
 categories: jekyll update
