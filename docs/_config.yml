@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: personal website
+title: 660nm
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -90,14 +90,14 @@ defaults:
       comments: true
       share: true
       related: true
-    sidebar:
-      - title: "Title"
-#        image: "/assets/images/your-image.jpg"
-#        image_alt: "image"
-        text: "Some text here."
-      - title: "Another Title"
-        text: "More text here."
-        nav: sidebar-sample
+      sidebar:
+        - title: "Title"
+          #        image: "/assets/images/your-image.jpg"
+          #        image_alt: "image"
+          text: "Some text here."
+        - title: "Another Title"
+          text: "More text here."
+          nav: sidebar-sample
   # _pages
   - scope:
       path: "pages"
