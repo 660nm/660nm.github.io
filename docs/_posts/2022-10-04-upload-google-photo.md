@@ -22,7 +22,15 @@ google photoからの画像埋め込みのテストです．
 <a href="https://lh3.googleusercontent.com/8LiGzc4UxbL9dI30V1z8ZBSAioVoCZlXXLX9vyN5zhz-eUTtTC5wswUpn1Bg3wMSJwJVxtMNeAKcOdGcPGgjwZ_gzWNiCiNlzs0c9GDnsgMyv0TH_NgVC3_tNZRb-37DXlYmCjEG=w2400" target="_blank"> <img src="https://lh3.googleusercontent.com/8LiGzc4UxbL9dI30V1z8ZBSAioVoCZlXXLX9vyN5zhz-eUTtTC5wswUpn1Bg3wMSJwJVxtMNeAKcOdGcPGgjwZ_gzWNiCiNlzs0c9GDnsgMyv0TH_NgVC3_tNZRb-37DXlYmCjEG=w800" /> </a>
 (Nikkor Z 24-120+Z6)
 
-## 
+## tag test1
+https://peterroelants.github.io/posts/adding-tags-to-github-pages/
+
+{% for tag in page.tags %}
+    {{ tag }}
+{% endfor %}
+
+## tag test2
+
 
 {% case site.tag_archive.type %}
   {% when "liquid" %}
