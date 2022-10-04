@@ -1,7 +1,11 @@
 ---
 title:  "github-pagesを使ったブログの作り方 part2"
 date:   2022-09-05 10:00:00 +0900
-categories: jekyll update
+categories: 
+ - others
+tags:
+ - jekyll 
+ - update
 ---
 
 # このブログの作り方(工事中)
