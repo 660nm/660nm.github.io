@@ -13,6 +13,10 @@
 # https://learnxinyminutes.com/docs/yaml/
 #
 
+# remote_theme
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+
 # ---------------------
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
@@ -43,7 +47,6 @@ locale                   : "en-US"  #"ja-JP"  # 日本語を扱うなら変更�
 
 # Reading Files
 include:
-  - .htaccess
   - _pages
 
 # Exclude from processing.
@@ -73,8 +76,6 @@ include:
 # remote_theme: pages-themes/minimal # minimal
 # remote_theme: pages-themes/minimal@v0.2.0
   
-# remote_theme
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 # ---------------------------
 # Plugins
