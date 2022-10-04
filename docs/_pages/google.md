@@ -1,6 +1,6 @@
 ---
 title: Google
-permalink: /tags/
-layout: tags/google/
+permalink: /tags/google/ 
+layout: tag
 author_profile: true
 ---
