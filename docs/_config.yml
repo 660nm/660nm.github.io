@@ -160,8 +160,7 @@ defaults:
       comments: true
       share: true
       related: true
-      sidebar:
-       - title: "Title"
+      sidebar: true
 
 # _pages
   - scope:
