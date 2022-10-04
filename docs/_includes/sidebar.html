@@ -19,12 +19,11 @@
        <p> Name: {{ tag | first }} </p>
        <p> count: {{ tag | last | size}} </p>
     {% endfor %}
-<!--  以上 sidebar -->
-
-
+       <!--  以上 sidebar -->
+       
     {% case site.tag_archive.type %}
       {% when "liquid" %}
-      {% assign path_type = "#" %}
+      {% assign path_type = '#' %}
     {% when "jekyll-archives" %}
       {% assign path_type = nil %}
     {% endcase %}
@@ -34,7 +33,7 @@
       <p class="page__taxonomy">
       <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].tags_label | default: "Tags:" }} </strong>
       <span itemprop="keywords">
-      {% for tag_word in tags_sorted %}
+      {% for tag_word in site.tags %}
       <a href="{{ tag_word | prepend: path_type | prepend: site.tag_archive.path | relative_url }}" class="page__taxonomy-item p-category" rel="tag">{{ tag_word }}</a>
       {% unless forloop.last %}<span class="sep">, </span>{% endunless %}
       {% endfor %}
