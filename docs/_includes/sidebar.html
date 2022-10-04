@@ -15,8 +15,8 @@
       {% include nav_list nav=page.sidebar.nav %}
     {% endif %}
     {% for tag in site.tags %}
-       Name: {{ tag | first }} <br>
-       count: {{ tag | last | size}} <br>
+       <p> Name: {{ tag | first }}  </p>
+       <p> count: {{ tag | last | size}} </p>
     {% endfor %}
   {% endif %}	
   </div>
