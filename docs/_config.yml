@@ -32,7 +32,7 @@ url: "https://dirac6582.github.io" # the base hostname & protocol for your site,
 # twitter_username: jekyllrb
 github_username:  660nm
 repository: 660nm/660nm.github.io.git
-locale                   : "ja-JP"  # 日本語を扱うなら変更しておく
+locale                   : "en-US"  #"ja-JP"  # 日本語を扱うなら変更しておく
 
 # -------------------
 # Build settings
@@ -85,7 +85,7 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-include-cache # for mm mistakes
-  - jekyll-archives      # for tags/categories
+#  - jekyll-archives      # for tags/categories
    
 
 # ---------------------------

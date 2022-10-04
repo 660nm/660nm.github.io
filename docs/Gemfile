@@ -20,8 +20,10 @@ gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
+  gem "jemoji"
+  gem "jekyll-algolia"
   gem "jekyll-include-cache"
-  gem "jekyll-archives"
+#  gem "jekyll-archives"
   gem "jekyll-remote-theme"
   gem "jekyll-paginate"
   gem "jekyll-sitemap"
