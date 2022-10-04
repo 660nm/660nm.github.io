@@ -92,8 +92,8 @@ defaults:
       related: true
       sidebar:
         - title: "Title"
-          #        image: "/assets/images/your-image.jpg"
-          #        image_alt: "image"
+          image: "/assets/images/author.jpg"
+          image_alt: "image"
           text: "Some text here."
         - title: "Another Title"
           text: "More text here."
@@ -144,11 +144,3 @@ defaults:
       author_profile: false
       share: true
 
-sidebar:
-  - title: "Title"
-#    image: "/assets/images/your-image.jpg"
-#    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
-    nav: sidebar-sample
