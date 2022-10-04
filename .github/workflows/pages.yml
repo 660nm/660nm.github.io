@@ -27,6 +27,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+      - name: Setup Pages
+        uses: actions/configure-pages@v2
       - name: Set up Ruby
         uses: actions/setup-ruby@v1
         with:
@@ -35,13 +37,13 @@ jobs:
         run: |
           bundle config set path 'vendor/bundle'
           bundle install --gemfile='./docs/Gemfile'
-      - name: Setup Pages
-        uses: actions/configure-pages@v2
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./docs/
           destination: ./docs/_site/
+      - name: Jekyll Build
+        run: bundle exec jekyll build --source=./docs/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
