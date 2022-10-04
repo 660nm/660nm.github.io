@@ -86,7 +86,7 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-include-cache # for mm mistakes
-#  - jekyll-archives      # for tags/categories
+  - jekyll-archives      # for tags/categories
    
 
 # ---------------------------
