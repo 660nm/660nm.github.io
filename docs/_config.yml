@@ -77,8 +77,17 @@ plugins:
    - jekyll-remote-theme # add this line to the plugins list if you already have one
    - jekyll-feed
    - jekyll-include-cache # for mm mistakes
-   - jekyll-archives
+   - jekyll-archives      # for tags/categories
+   
 
+# ---------------------------
+# Site Footer
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/660nm"
+   
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
