@@ -114,6 +114,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+month_archive:
+  type: liquid
+  path: /months/
 
 # category_archive:
 #   type: jekyll-archives  # liquid から jekyll-archives に変更する
