@@ -26,13 +26,25 @@
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 <div class="entries-{{ entries_layout }}">
   {% for post in posts %}
-   <p> <a href="{{ post.url | relative_url }}" rel="permalink">{{ post.title }}</a> </p>
+  {% if post.header.teaser %}
+   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+  {% else %}
+   {% assign teaser = site.teaser %}
+  {% endif %}
+  <div class=sidebar-subbox>
+    <div class=sidebar-thumbnail>
+      <img src="{{ teaser | relative_url }}" alt="" >
+    </div>
+    <div class=sidebar-title>
+      <p> <a href="{{ post.url | relative_url }}" rel="permalink">{{ post.title }}</a> </p>
+    </div>
+  </div>
   {% endfor %}
 </div>
 <!-- 以上 recent posts -->  
 
 	
-<!--  以下 sidebar -->
+<!--  以下 tags -->
     {% case site.tag_archive.type %}
       {% when "liquid" %}
       {% assign path_type = '#' %}

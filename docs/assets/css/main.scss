@@ -8,12 +8,46 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+// サイドバーのRecent postにサムネイルを表示する
+.sidebar-subbox {
+  position: relative;
+  overflow: hidden;    
+}
+
+.sidebar-thumbnail{
+  position: relative;
+  border-radius: $border-radius;
+  overflow: hidden;
+  float: left;
+  width: 30%;
+  margin: 2.5%;
+  margin-top: 0;
+  img {
+      width: 100%;
+      aspect-ratio: 1 / 1;
+      object-fit: cover;
+  }
+}
+
+.sidebar-title{
+    margin-top: 0;
+    width: 65%;
+  overflow: hidden;
+  float: left;
+  p {
+  margin-top: 0;
+//  font-size: $type-size-6;
+  text-indent: 0;
+  }
+}
+    
+// メインページのRecent postにサムネイルを表示する
 .archive__item-subbox {
   position: relative;
   overflow: hidden;    
 }
 
-// カスタム for 
+// カスタム for index.md
 .archive__item-teaser-blog {
   position: relative;
   border-radius: $border-radius;
