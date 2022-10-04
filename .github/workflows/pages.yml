@@ -34,7 +34,7 @@ jobs:
       - name: bundle install
         run: |
           bundle config set path 'vendor/bundle'
-          bundle install
+          bundle install --gemfile='./docs/Gemfile'
       - name: Setup Pages
         uses: actions/configure-pages@v2
       - name: Build with Jekyll
