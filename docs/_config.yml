@@ -128,15 +128,24 @@ tag_archive:
 # https://github.com/jekyll/jekyll-archives
 jekyll-archives:
   enabled:
+    - year
+    - month
+    - day
     - categories
     - tags
   layouts:
+    year    : archive-taxonomy
+    month   : archive-taxonomy
+    day     : archive-taxonomy
     category: archive-taxonomy
     tag: archive-taxonomy
+    
   permalinks:
+    year    : /:year/
+    month   : /:year/:month/
+    day     : /:year/:month/:day/
     category: /categories/:name/
     tag: /tags/:name/
-
 
   
 header_pages:
