@@ -77,7 +77,7 @@ header_pages:
   - index.md
   
 
-  # Defaults
+# Defaults yaml frontmatter
 defaults:
   # _posts
   - scope:
@@ -90,6 +90,14 @@ defaults:
       comments: true
       share: true
       related: true
+    sidebar:
+      - title: "Title"
+#        image: "/assets/images/your-image.jpg"
+#        image_alt: "image"
+        text: "Some text here."
+      - title: "Another Title"
+        text: "More text here."
+        nav: sidebar-sample
   # _pages
   - scope:
       path: "pages"
