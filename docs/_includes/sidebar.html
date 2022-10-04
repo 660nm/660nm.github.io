@@ -1,5 +1,5 @@
 {% if page.author_profile or layout.author_profile or page.sidebar %}
-  <div class=“sidebar sticky”>
+  <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
   {% if page.sidebar %}
     {% for s in page.sidebar %}
@@ -16,8 +16,8 @@
     {% endif %}
 <!--  以下 sidebar -->
     {% for tag in site.tags %}
-       Name: {{ tag | first }} <br>
-       count: {{ tag | last | size}} <br>
+       <p> Name: {{ tag | first }} </p>
+       <p> count: {{ tag | last | size}} </p>
     {% endfor %}
   {% endif %}	
   </div>
