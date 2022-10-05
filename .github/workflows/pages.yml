@@ -50,6 +50,9 @@ jobs:
       - name: where jekyll ?
         run: |
           jekyll --version
+      - name: Jekyll build test
+        run: |
+          jekyll build --source ./docs/ --destination ./docs/_site/
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
