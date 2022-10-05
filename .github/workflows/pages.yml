@@ -36,8 +36,8 @@ jobs:
           ruby-version: 2.7
       - name: bundle install
         run: |
-#          bundle config set path 'vendor/bundle'
           bundle install --gemfile='./docs/Gemfile'
+          #          bundle config set path 'vendor/bundle'
       # - uses: helaili/jekyll-action@2.4.0
       #   with:
       #     token: ${{ secrets.GITHUB_TOKEN }}
