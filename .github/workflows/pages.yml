@@ -53,13 +53,13 @@ jobs:
       - name: Jekyll build test
         run: |
           jekyll build --source ./docs/ --destination ./docs/_site/
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./docs/
-          destination: ./docs/_site/
-      - name: Jekyll Build
-        run: sudo /opt/hostedtoolcache/Ruby/2.7.6/x64/bin/bundle exec --gemfile=./docs/Gemfile jekyll build --source ./docs/ --destination ./docs/_site/
+      # - name: Build with Jekyll
+      #   uses: actions/jekyll-build-pages@v1
+      #   with:
+      #     source: ./docs/
+      #     destination: ./docs/_site/
+      # - name: Jekyll Build
+      #   run: sudo /opt/hostedtoolcache/Ruby/2.7.6/x64/bin/bundle exec --gemfile=./docs/Gemfile jekyll build --source ./docs/ --destination ./docs/_site/
       - name: ls lha
         run: ls -lha /home/runner/work/660nm.github.io/660nm.github.io/docs/_site/
       - name: Upload artifact
