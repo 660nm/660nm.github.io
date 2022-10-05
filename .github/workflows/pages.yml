@@ -49,7 +49,7 @@ jobs:
           which bundle
       - name: where jekyll ?
         run: |
-          sudo which jekyll
+          jekyll --version
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
