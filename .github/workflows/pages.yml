@@ -36,7 +36,7 @@ jobs:
           ruby-version: 2.7
       - name: bundle install
         run: |
-          bundle config set path 'vendor/bundle'
+#          bundle config set path 'vendor/bundle'
           bundle install --gemfile='./docs/Gemfile'
       # - uses: helaili/jekyll-action@2.4.0
       #   with:
@@ -49,7 +49,7 @@ jobs:
           which bundle
       - name: where jekyll ?
         run: |
-          which jekyll
+          sudo which jekyll
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
