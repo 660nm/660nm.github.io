@@ -6,10 +6,8 @@ categories:
 tags:
  - jekyll 
  - update
-header:
-   teaser: "https://lh3.googleusercontent.com/a6RP6zpXPb2LtWuuJlbULj_gI4FTbKQfGV4dNfFMWDJovLy_VDSQyHb3ZXQel_VvE644jZDR4EIQt8dXP4il6DMgz1f8zAPew0cPgKaf6RLy6benKIVVw_Awq6mmV5m0iaLwsCKl=s0"
 description: >-
- github-pagesを使って趣味用のブログを作成する方法について何回かに分けて紹介します．今回は2回目です．
+ github-pagesを使って趣味用のブログを作成する方法について何回かに分けて紹介します．今回は2回目です．minimal mistakesというテーマをインストールしてブログの記事を書くところまでやります．
 ---
 
 # このブログの作り方(工事中)
