@@ -15,14 +15,18 @@
       {% include nav_list nav=page.sidebar.nav %}
     {% endif %}
 
-<!-- 以下 recent posts -->  
-<h3> Recent Posts </h3>
+<!-- 以下 recent posts -->
+<nav class="nav__list">
+<h3 class="nav__title" style="padding-left: 0;"> Recent Posts </h3>
+<input id="ac-toc" name="accordion-toc" type="checkbox" />
+ <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</label>
 {% if paginator %}
   {% assign posts = paginator.posts %}
 {% else %}
   {% assign posts = site.posts %}
 {% endif %}
 
+<ul class="nav__items">
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 <div class="entries-{{ entries_layout }}">
   {% for post in posts %}
@@ -31,6 +35,7 @@
   {% else %}
    {% assign teaser = site.teaser %}
   {% endif %}
+  <li>
   <div class=sidebar-subbox>
     <div class=sidebar-thumbnail>
       <img src="{{ teaser | relative_url }}" alt="" >
@@ -39,13 +44,21 @@
       <p> <a href="{{ post.url | relative_url }}" rel="permalink">{{ post.title }}</a> </p>
     </div>
   </div>
+  </li>
   {% endfor %}
 </div>
+</ul>
+</nav>]
 <!-- 以上 recent posts -->  
 
 	
 <!--  以下 posts by month -->
-<h3> 月別アーカイブ </h3>
+<nav class="nav__list">
+<h3 class="nav__title" style="padding-left: 0;"> 月別アーカイブ </h3>
+<input id="ac-toc" name="accordion-toc" type="checkbox" />
+ <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</label>
+
+<ul class="nav__items"> 
 {% case site.tag_archive.type %}
       {% when "liquid" %}
       {% assign path_type = '#' %}
@@ -53,25 +66,27 @@
       {% assign path_type = nil %}
     {% endcase %}
 
-
-    {% assign prev_post_month = "hoge" %} 
-    <p class="page__taxonomy">
-
+<!-- 初期化 -->
+    {% assign prev_post_month = "hoge" %}  
     {% for post in site.posts %}
        {% assign currentdate = post.date | date: "%Y/%m" %}
 <!--       {% if prev_post_month %} -->
-        {% if currentdate != prev_post_month %}
-        <p><a href="{{ currentdate | prepend: site.month_archive.path | relative_url }}" class="page__taxonomy-item p-category" rel="tag">{{ currentdate }} </a></p>
+       {% if currentdate != prev_post_month %}
+        <li>
+          <p><a href="{{ currentdate | prepend: site.month_archive.path | relative_url }}" class="page__taxonomy-item p-category" rel="tag">{{ currentdate }} </a></p>
+	</li>
          {% endif %}
 <!--       {% endif %} -->
      {% assign prev_post_month = currentdate %}
 	{% endfor %}
-    </p>
+</ul>
+</nav>
 <!--  以上 posts by month  -->
 
 
 	
 <!--  以下 tags -->
+
     {% case site.tag_archive.type %}
       {% when "liquid" %}
       {% assign path_type = '#' %}
@@ -81,17 +96,24 @@
 
     {% if site.tag_archive.path %}
     {% assign tags_sorted = site.tags | sort_natural %}
-    <h3> <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].tags_label | default: "Tags:" }} </strong> </h3>
-      <p class="page__taxonomy">
+<nav class="nav__list">
+<h3 class="nav__title" style="padding-left: 0;">  <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].tags_label | default: "Tags:" }} </strong> </h3>
+<input id="ac-toc" name="accordion-toc" type="checkbox" />
+ <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</label>
+<ul class="nav__items">
+<p class="page__taxonomy">
       <span itemprop="keywords">
-      {% for tag_word in site.tags %}
-      <a href="{{ tag_word | first | prepend: path_type | prepend: site.tag_archive.path | relative_url }}" class="page__taxonomy-item p-category" rel="tag">{{ tag_word | first }} ({{ tag | last | size}})</a>
+	{% for tag_word in site.tags %}
+	<li>
+	  <a href="{{ tag_word | first | prepend: path_type | prepend: site.tag_archive.path | relative_url }}" class="page__taxonomy-item p-category" rel="tag">{{ tag_word | first }} ({{ tag | last | size}})</a>
+	  </li>
       {% unless forloop.last %}<span class="sep">, </span>{% endunless %}
       {% endfor %}
       </span>
-      </p>
-    {% endif %}
-<!--  以上 sidebar -->
+</p>
+</ul>
+{% endif %}
+<!--  以上 tags -->
 
 {% if site.category_archive.path %}
   {% assign categories_sorted = page.categories | sort_natural %}

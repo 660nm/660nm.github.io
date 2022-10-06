@@ -39,6 +39,13 @@ repository: 660nm/660nm.github.io.git
 locale                   : "en-US"  #"ja-JP"  # 日本語を扱うなら変更しておく
 teaser: assets/images/teaser.jpg
 
+
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "G-WS2K8J80EK"
+    anonymize_ip: false # default
+
 # -------------------
 # Build settings
 # if you are using minima, then check https://github.com/jekyll/minima for more information
