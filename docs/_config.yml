@@ -28,9 +28,7 @@ title: 660nm
 subtitle: "アクアリウム，特に水草水槽について備忘録を書いています．"
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+アクアリウム，特に水草水槽について．アクアリウム用品，カメラのレビュー．
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dirac6582.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -39,13 +37,23 @@ repository: 660nm/660nm.github.io.git
 locale                   : "en-US"  #"ja-JP"  # 日本語を扱うなら変更しておく
 teaser: assets/images/teaser.jpg
 
-
+# googele analytics
 analytics:
   provider: "google"
   google:
     tracking_id: "G-WS2K8J80EK"
     anonymize_ip: false # default
 
+# google search console
+google_site_verification: ""
+
+# disqus for comments
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "660nm"
+
+    
 # -------------------
 # Build settings
 # if you are using minima, then check https://github.com/jekyll/minima for more information
