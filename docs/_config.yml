@@ -39,7 +39,7 @@ teaser: assets/images/teaser.jpg
 
 # googele analytics
 analytics:
-  provider: "google"
+  provider: "google-gtag"
   google:
     tracking_id: "G-WS2K8J80EK"
     anonymize_ip: false # default
