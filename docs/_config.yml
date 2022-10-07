@@ -28,7 +28,7 @@ title: 660nm
 subtitle: "アクアリウム，特に水草水槽について備忘録を書いています．"
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-アクアリウム，特に水草水槽について．アクアリウム用品，カメラのレビュー．
+  "アクアリウム特に水草水槽について．アクアリウム用品，カメラのレビュー．"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dirac6582.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
