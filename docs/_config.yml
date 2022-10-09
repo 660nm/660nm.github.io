@@ -56,10 +56,7 @@ comments:
     
 # -------------------
 # Build settings
-# if you are using minima, then check https://github.com/jekyll/minima for more information
-# theme: minima
-#plugins:
-#  - jekyll-feed
+
 
 # Reading Files
 include:
@@ -103,7 +100,7 @@ plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-include-cache # for mm mistakes
   - jekyll-archives      # for tags/categories
-   
+  - jekyll-org
 
 # ---------------------------
 # Site Footer
