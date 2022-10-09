@@ -1,11 +1,8 @@
 ---
 title:  "はじめまして"
-date:   2022-04-09 21:00:00 +0900
+date:   2018-04-09 21:00:00 +0900
 categories: 
  - others
-tags:
- - jekyll 
- - update
 description: >-
  はじめまして．
 ---
