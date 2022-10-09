@@ -1,0 +1,244 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+
+# remote_theme
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+
+# ---------------------
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: 660nm
+subtitle: "アクアリウム，特に水草水槽について備忘録を書いています．"
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  "アクアリウム特に水草水槽について．アクアリウム用品，カメラのレビュー．"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://dirac6582.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+github_username:  660nm
+repository: 660nm/660nm.github.io.git
+locale                   : "en-US"  #"ja-JP"  # 日本語を扱うなら変更しておく
+teaser: assets/images/teaser.jpg
+
+# googele analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-WS2K8J80EK"
+    anonymize_ip: false # default
+
+# google search console
+google_site_verification: ""
+
+# disqus for comments
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "660nm"
+
+    
+# -------------------
+# Build settings
+# if you are using minima, then check https://github.com/jekyll/minima for more information
+# theme: minima
+#plugins:
+#  - jekyll-feed
+
+# Reading Files
+include:
+  - _pages
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# https://github.com/jekyll/minima/blob/master/_layouts/default.html
+#remote_theme: jekyll/minimal # original
+#  skin: solarized-light
+
+# remote_theme: pages-themes/minimal # minimal
+# remote_theme: pages-themes/minimal@v0.2.0
+  
+
+# ---------------------------
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-include-cache # for mm mistakes
+  - jekyll-archives      # for tags/categories
+   
+
+# ---------------------------
+# Site Footer
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/660nm"
+   
+# Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path/my-awesome-category/index.html ~> path: /
+
+# category_archive:
+#   type: liquid
+#   path: /categories/
+# tag_archive:
+#   type: liquid
+#   path: /tags/
+# month_archive:
+#   type: liquid
+#   path: /months/
+
+category_archive:
+  type: jekyll-archives  # liquid から jekyll-archives に変更する
+  path: /categories/
+tag_archive:
+  type: jekyll-archives  # liquid から jekyll-archives に変更する
+  path: /tags/
+
+# https://github.com/jekyll/jekyll-archives
+jekyll-archives:
+  enabled:
+    - year
+    - month
+    - day
+    - categories
+    - tags
+  layouts:
+    year    : archive-taxonomy
+    month   : archive-taxonomy
+    day     : archive-taxonomy
+    category: archive-taxonomy
+    tag: archive-taxonomy
+    
+  permalinks:
+    year    : /:year/
+    month   : /:year/:month/
+    day     : /:year/:month/:day/
+    category: /categories/:name/
+    tag: /tags/:name/
+
+  
+header_pages:
+  - about.md
+  - index.md
+
+author:
+  name: "660nm"
+  avatar: "assets/images/author.jpg"
+  bio: "水草ブログ660nmへようこそ！"
+  location: "Tokyo, Japan"
+    
+# Defaults yaml frontmatter
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      show_date: true # 日付を表示
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      sidebar: true
+
+# _pages
+  - scope:
+      path: "pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "docs"
+  # _recipes
+  - scope:
+      path: ""
+      type: recipes
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _pets
+  - scope:
+      path: ""
+      type: pets
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
+       #   image: "/assets/images/author.jpg"
+       #   image_alt: "image"
+       #   text: "Some text here."
+       # - title: "Another Title"
+       #   text: "More text here."
+       #   nav: sidebar-sample
