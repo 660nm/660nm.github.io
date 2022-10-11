@@ -8,6 +8,13 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+// スマホ画面ではサイドバーを非表示にする
+ .sidebar {
+     @include breakpoint($x-large) {
+	 display: none;
+     }
+ }
+
 // サイドバーのRecent postにサムネイルを表示する
 .sidebar-subbox {
   position: relative;

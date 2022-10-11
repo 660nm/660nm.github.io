@@ -48,7 +48,7 @@
   {% endfor %}
 </div>
 </ul>
-</nav>]
+</nav>
 <!-- 以上 recent posts -->  
 
 	
@@ -66,7 +66,7 @@
       {% assign path_type = nil %}
     {% endcase %}
 
-<!-- 初期化 -->
+<!-- prev_post_monthの初期化 -->
     {% assign prev_post_month = "hoge" %}  
     {% for post in site.posts %}
        {% assign currentdate = post.date | date: "%Y/%m" %}
@@ -112,6 +112,7 @@
       </span>
 </p>
 </ul>
+</nav>
 {% endif %}
 <!--  以上 tags -->
 
