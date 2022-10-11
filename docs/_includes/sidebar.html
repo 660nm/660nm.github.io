@@ -53,12 +53,7 @@
 
 	
 <!--  以下 posts by month -->
-<nav class="nav__list">
-<h3 class="nav__title" style="padding-left: 0;"> 月別アーカイブ </h3>
-<input id="ac-toc" name="accordion-toc" type="checkbox" />
- <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</label>
-
-<ul class="nav__items"> 
+<h3> 月別アーカイブ </h3>
 {% case site.tag_archive.type %}
       {% when "liquid" %}
       {% assign path_type = '#' %}
@@ -72,15 +67,11 @@
        {% assign currentdate = post.date | date: "%Y/%m" %}
 <!--       {% if prev_post_month %} -->
        {% if currentdate != prev_post_month %}
-        <li>
           <p><a href="{{ currentdate | prepend: site.month_archive.path | relative_url }}" class="page__taxonomy-item p-category" rel="tag">{{ currentdate }} </a></p>
-	</li>
          {% endif %}
 <!--       {% endif %} -->
      {% assign prev_post_month = currentdate %}
 	{% endfor %}
-</ul>
-</nav>
 <!--  以上 posts by month  -->
 
 
@@ -96,23 +87,15 @@
 
     {% if site.tag_archive.path %}
     {% assign tags_sorted = site.tags | sort_natural %}
-<nav class="nav__list">
-<h3 class="nav__title" style="padding-left: 0;">  <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].tags_label | default: "Tags:" }} </strong> </h3>
-<input id="ac-toc" name="accordion-toc" type="checkbox" />
- <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</label>
-<ul class="nav__items">
+<h3>  <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].tags_label | default: "Tags:" }} </strong> </h3>
 <p class="page__taxonomy">
       <span itemprop="keywords">
 	{% for tag_word in site.tags %}
-	<li>
 	  <a href="{{ tag_word | first | prepend: path_type | prepend: site.tag_archive.path | relative_url }}" class="page__taxonomy-item p-category" rel="tag">{{ tag_word | first }} ({{ tag | last | size}})</a>
-	  </li>
       {% unless forloop.last %}<span class="sep">, </span>{% endunless %}
       {% endfor %}
       </span>
 </p>
-</ul>
-</nav>
 {% endif %}
 <!--  以上 tags -->
 

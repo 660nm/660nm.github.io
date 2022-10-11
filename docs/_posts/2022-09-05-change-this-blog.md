@@ -6,6 +6,8 @@ categories:
 tags:
  - jekyll 
  - update
+header:
+  teaser: "assets/images/teaser.jpg"
 description: >-
  github-pagesを使って趣味用のブログを作成する方法について何回かに分けて紹介します．今回は2回目です．実際にブログの記事を書いてみます．
 ---
