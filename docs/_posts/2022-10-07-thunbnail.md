@@ -1,13 +1,13 @@
 ---
-title:  "github-pagesを使ったブログの作り方 part2"
-date:   2022-09-05 10:00:00 +0900
+title:  "github-pagesを使ったブログの作り方 part3"
+date:   2022-10-07 21:00:00 +0900
 categories: 
  - others
 tags:
  - jekyll 
  - update
 description: >-
- github-pagesを使って趣味用のブログを作成する方法について何回かに分けて紹介します．今回は2回目です．minimal mistakesというテーマをインストールしてブログの記事を書くところまでやります．
+ github-pagesを使って趣味用のブログを作成する方法について何回かに分けて紹介します．今回は3回目です．テーマをカスタマイズして最新記事にサムネイルを表示します．
 ---
 
 # このブログの作り方(工事中)
@@ -23,12 +23,53 @@ github pagesとして外部に公開するページを作るだけなら簡単�
 記事が長くなりそうなのでいくつかのステップに分けておく．今日は2回目で，具体的に新しいページを作ったり表示をいじってみたりということをやる．
 
 - jekyllのセットアップ
-- ブログの中身の変更(今ココ!)
+- ブログの中身の変更
+- minimal mistakesテーマを使う
 
+
+## テーマの変更
+
+jekyllでは既に用意された色々なテンプレートを使ってブログを作れる．前回の記事ではデフォルトテーマの`minima`を使っていたが，このテーマはデフォルトでサイドバーが入っていないという問題点があってちょっと使いにくいということで，サイドバーがあるテーマとして[`minimal mistakes`](https://github.com/mmistakes/minimal-mistakes)というのをみつけたのでこれを使ってみる．
+
+インストールは簡単で，Gemfileと_config.ymlを以下のように編集する．
+
+```ruby:Gemdile
+source "https://rubygems.org"
+
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-include-cache", group: :jekyll_plugins
+```
+
+```yaml:_config.yml
+# 注意: 他にremote_themeまたはthemeの行がある場合はその行は削除する．
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+```
+
+Minimal mistakesにかぎらず，他のテーマを使う場合でも`Gemfile`と`_config.yaml`の変更のみですむ場合が多いと思う．`Gemfile`を更新したら`bundle`で実際にローカルにインストールする．これでサイトの見た目が変わったことがわかると思う．
+
+<!-- https://k11i.biz/blog/2016/08/11/starting-jekyll-with-minimal-mistakes/ -->
+
+## `_config.yml`の設定
+
+Minimaからテーマを変更しても，基本的なディレクトリ構造は同じなので前回作ったブログポストはそのまま使える．ただし，`_config.yml`の細かい設定は異なるのでこちらはちゃんと設定する．設定の花形としては[githubレポジトリ](https://github.com/mmistakes/minimal-mistakes/blob/master/_config.yml)が参考になると思う．細かい解説は[公式ドキュメント](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)を参照．
+
+```yaml
+# google analyticsの設定
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G12345678"
+    anonymize_ip: false # default
+	
+# google search console
+google_site_verification: "yourVerificationCode"
+```
+
+<!-- https://zetton86.github.io/blog/20200114/ -->
 
 ## Minimal mistakesのいじり方
 
-テーマのカスタマイズ方法についてまず述べる．細かい部分は違っても多くのテーマで似たような操作が必要なはずだ．Minimal mistakesのgithubレポジトリを見てみると，`_layouts`にいくつかのスタイルのhtml(Liquid)ファイルがある．この`_layout`の中に`home`や`post`といったスタイルのファイルがおいてある．これらのファイルは`_includes`においてあるヘッダーやフッターなどの共通部品のhtmlファイルを参照している．
+テーマのカスタマイズ方法について述べる．細かい部分は違っても多くのテーマで似たような操作が必要なはずだ．Minimal mistakesのgithubレポジトリを見てみると，`_layouts`にいくつかのスタイルのhtml(Liquid)ファイルがある．この`_layout`の中に`home`や`post`といったスタイルのファイルがおいてある．これらのファイルは`_includes`においてあるヘッダーやフッターなどの共通部品のhtmlファイルを参照している．
 
 一方でcssファイルは`_sass`以下に入っており，最終的に`assets/css/main.scss`で読み込んでいる．cssをカスタマイズする場合は`_sass`内のファイルを直接修正するのではなく，`main.scss`を修正する方がメンテナンスの面で良い．
 
