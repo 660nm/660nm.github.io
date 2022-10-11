@@ -34,8 +34,8 @@ url: "https://dirac6582.github.io" # the base hostname & protocol for your site,
 # twitter_username: jekyllrb
 github_username:  660nm
 repository: 660nm/660nm.github.io.git
-locale                   : "en-US"  #"ja-JP"  # 日本語を扱うなら変更しておく
-teaser: assets/images/teaser.jpg
+locale: "en-US"  #"ja-JP"  # 日本語を扱うなら変更しておく
+teaser: "assets/images/teaser.jpg"
 
 # googele analytics
 analytics:
