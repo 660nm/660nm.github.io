@@ -8,7 +8,7 @@ tags:
  - rインレー
  - rワイナード
 header:
-  teaser: "assets/images/image_post/15.jpg"
+  teaser: "assets/images/image_post/DSCN7829after.jpeg"
 description: >-
  我が家にある赤いロタラたちについて．
 ---
