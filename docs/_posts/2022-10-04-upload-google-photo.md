@@ -9,7 +9,7 @@ tags:
 header:
   teaser: "https://lh3.googleusercontent.com/8LiGzc4UxbL9dI30V1z8ZBSAioVoCZlXXLX9vyN5zhz-eUTtTC5wswUpn1Bg3wMSJwJVxtMNeAKcOdGcPGgjwZ_gzWNiCiNlzs0c9GDnsgMyv0TH_NgVC3_tNZRb-37DXlYmCjEG"
 description: >-
-  github pages形式のブログにgoogle photoから画像を埋め込む方法について解説しています．hogehoge　　hogehoge　　hogehoge　　hogehoge　　hogehoge　　hogehoge　　hogehoge　　
+  github pages形式のブログにgoogle photoから画像を埋め込む方法について．
 ---
 
 ## github pageをブログに使う場合の画像の取り扱い
@@ -19,40 +19,17 @@ githubのレポジトリはあまりサイズを大きくできない（公式�
 
 ## 実際に埋め込んでみる
 
-まずgoogle photoにブログで使いたい画像をアップロード．「共有」メニューからURLを取得する．
+まずgoogle photoにブログで使いたい画像をアップロードして，「共有」メニューからURLを取得する．このurlをそのままはるだけではダメで，どうも埋め込み用のURLに変換する必要があるらしい．今回は試しに[labnol.org](https://www.labnol.org/embed/google/photos/)というサイトを見つけたのでここで試してみる．取得したurlを貼り付けるだけで埋め込み用のurlに変換してくれる．ただし，urlの最後に`=w2400`とついていて，これはpt単位の横幅(width)の指定なので自分の好きな数字に変更するか無くしてしまってもよい．
 
+あとは変換したurlを通常のmarkdownの画像埋め込みの要領で貼り付ければ完成．
 
-google photoからの画像埋め込みのテストです．
+```markdown
+![キャプション](画像url)
+```
+
+以下が実際に埋め込んだ画像を表示したもの．
+
+![(Nikkor Z 24-120+Z6)]("https://lh3.googleusercontent.com/8LiGzc4UxbL9dI30V1z8ZBSAioVoCZlXXLX9vyN5zhz-eUTtTC5wswUpn1Bg3wMSJwJVxtMNeAKcOdGcPGgjwZ_gzWNiCiNlzs0c9GDnsgMyv0TH_NgVC3_tNZRb-37DXlYmCjEG)
 
 <a href="https://lh3.googleusercontent.com/8LiGzc4UxbL9dI30V1z8ZBSAioVoCZlXXLX9vyN5zhz-eUTtTC5wswUpn1Bg3wMSJwJVxtMNeAKcOdGcPGgjwZ_gzWNiCiNlzs0c9GDnsgMyv0TH_NgVC3_tNZRb-37DXlYmCjEG=w2400" target="_blank"> <img src="https://lh3.googleusercontent.com/8LiGzc4UxbL9dI30V1z8ZBSAioVoCZlXXLX9vyN5zhz-eUTtTC5wswUpn1Bg3wMSJwJVxtMNeAKcOdGcPGgjwZ_gzWNiCiNlzs0c9GDnsgMyv0TH_NgVC3_tNZRb-37DXlYmCjEG=w800" /> </a>
-(Nikkor Z 24-120+Z6)
 
-## tag test1
-https://peterroelants.github.io/posts/adding-tags-to-github-pages/
-
-{% for tag in page.tags %}
-    {{ tag }}
-{% endfor %}
-
-## tag test2
-
-
-{% case site.tag_archive.type %}
-  {% when "liquid" %}
-    {% assign path_type = "#" %}
-  {% when "jekyll-archives" %}
-    {% assign path_type = nil %}
-{% endcase %}
-
-{% if site.tag_archive.path %}
-  {% assign tags_sorted = page.tags | sort_natural %}
-
-  <p class="page__taxonomy">
-    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].tags_label | default: "Tags:" }} </strong>
-    <span itemprop="keywords">
-    {% for tag_word in tags_sorted %}
-      <a href="{{ tag_word | slugify | prepend: path_type | prepend: site.tag_archive.path | relative_url }}" class="page__taxonomy-item p-category" rel="tag">{{ tag_word }}</a>{% unless forloop.last %}<span class="sep">, </span>{% endunless %}
-    {% endfor %}
-    </span>
-  </p>
-{% endif %}
