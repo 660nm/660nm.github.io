@@ -9,11 +9,11 @@ search: false
 @import "minimal-mistakes"; // main partials
 
 // スマホ画面ではサイドバーを非表示にする
- .sidebar {
-     @include breakpoint($x-large) {
-	 display: none;
-     }
- }
+.sidebar {
+    @include breakpoint(max-width $large) {
+	display: none;
+    }
+}
 
 // サイドバーのRecent postにサムネイルを表示する
 .sidebar-subbox {
