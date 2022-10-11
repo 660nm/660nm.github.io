@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "水草"
+    url: /docs/quick-start-guide/
+  - title: "熱帯魚"
+    url: /year-archive/
+  - title: "アクア用品"
+    url: /collection-archive/
+  - title: "レイアウト"
+    url: /terms/
+  - title: "About"
+    url: /about/
