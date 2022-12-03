@@ -18,7 +18,7 @@ SDカードケースを購入．
 
 ## HAKUBA portable media case
 
-購入したのはHAKUBAのSDカードが8枚収納できるケース．SDカードは8枚も使いませんが，スマホで使っているmicroSDもアダプターをつければしまえるかなということでこのサイズにしました．本当はCFexpressも収納できるケースがあると良かったのですがそれは見つけられず．
+購入したのはHAKUBAのSDカードが8枚収納できるケース．SDカードは8枚も持っていませんが，スマホやwalkmanで使っているmicroSDもアダプターをつければしまえるかなということでこのサイズにしました．本当はCFexpressも収納できるケースがあると良かったのですがそれは見つけられず．
 
 ![](https://lh3.googleusercontent.com/a6RP6zpXPb2LtWuuJlbULj_gI4FTbKQfGV4dNfFMWDJovLy_VDSQyHb3ZXQel_VvE644jZDR4EIQt8dXP4il6DMgz1f8zAPew0cPgKaf6RLy6benKIVVw_Awq6mmV5m0iaLwsCKl=s0 "")
 
