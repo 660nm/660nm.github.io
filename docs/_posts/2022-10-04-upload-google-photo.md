@@ -30,15 +30,17 @@ githubのレポジトリはあまりサイズを大きくできない（公式�
 または，通常のhtml形式のコードでも大丈夫．
 
 ```markdown
-<a> <img src="画像url" /> </a>
+<a> <img src="画像url" caption="This is a caption" /> </a>
 ```
 
 
 以下が実際に埋め込んだ画像を表示したもの．
 
-![(Nikkor Z 24-120+Z6)]("https://lh3.googleusercontent.com/8LiGzc4UxbL9dI30V1z8ZBSAioVoCZlXXLX9vyN5zhz-eUTtTC5wswUpn1Bg3wMSJwJVxtMNeAKcOdGcPGgjwZ_gzWNiCiNlzs0c9GDnsgMyv0TH_NgVC3_tNZRb-37DXlYmCjEG)
+![(caption) マークダウンによる埋め込み](https://lh3.googleusercontent.com/8LiGzc4UxbL9dI30V1z8ZBSAioVoCZlXXLX9vyN5zhz-eUTtTC5wswUpn1Bg3wMSJwJVxtMNeAKcOdGcPGgjwZ_gzWNiCiNlzs0c9GDnsgMyv0TH_NgVC3_tNZRb-37DXlYmCjEG)
 
-<a> <img src="https://lh3.googleusercontent.com/8LiGzc4UxbL9dI30V1z8ZBSAioVoCZlXXLX9vyN5zhz-eUTtTC5wswUpn1Bg3wMSJwJVxtMNeAKcOdGcPGgjwZ_gzWNiCiNlzs0c9GDnsgMyv0TH_NgVC3_tNZRb-37DXlYmCjEG=w800" /> </a>
+
+
+<a> <img src="https://lh3.googleusercontent.com/8LiGzc4UxbL9dI30V1z8ZBSAioVoCZlXXLX9vyN5zhz-eUTtTC5wswUpn1Bg3wMSJwJVxtMNeAKcOdGcPGgjwZ_gzWNiCiNlzs0c9GDnsgMyv0TH_NgVC3_tNZRb-37DXlYmCjEG=w800" caption="(caption) htmlによる埋め込み" /> </a>
 
 
 ## jekyllのincludeを使う場合
@@ -46,8 +48,8 @@ githubのレポジトリはあまりサイズを大きくできない（公式�
 jekyllではincludeコマンドを利用して画像を埋め込むこともできる．ちょっとしたショートカットになっていて，多少記述量を減らせる．（[参考，minimal mistakesの解説](https://mmistakes.github.io/minimal-mistakes/docs/helpers/)）
 
 ```
-{% include figure image_path="画像url" alt="this is a placeholder image" caption="This is a figure caption." %}
+{% raw %} {% include figure image_path="画像url" alt="this is a placeholder image" caption="This is a figure caption." %} {% endraw %}
 ```
 
-
+この方法だと幅の調整なども自動で行ってくれるので，特段理由がなければ`include`を使う方法が良さそうです．
 
