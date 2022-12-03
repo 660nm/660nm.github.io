@@ -17,12 +17,12 @@ description: >-
 
 <a href="https://lh3.googleusercontent.com/RLq5dHlFVoaGVfqHi4LwhRXhSS_nPY0362VWfm0n3-_VXdDXqzD6DWTWdxdHJr_lJnjfZUR0d_0LVpEVEeLwogLIELlfjheRrHr3otovG57uFLxQiZLroVbyxETLIRA-KMppYgs4SQ=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/RLq5dHlFVoaGVfqHi4LwhRXhSS_nPY0362VWfm0n3-_VXdDXqzD6DWTWdxdHJr_lJnjfZUR0d_0LVpEVEeLwogLIELlfjheRrHr3otovG57uFLxQiZLroVbyxETLIRA-KMppYgs4SQ=w600-h315-p-k" /> </a>
 
-{% include figure image_path="https://lh3.googleusercontent.com/RLq5dHlFVoaGVfqHi4LwhRXhSS_nPY0362VWfm0n3-_VXdDXqzD6DWTWdxdHJr_lJnjfZUR0d_0LVpEVEeLwogLIELlfjheRrHr3otovG57uFLxQiZLroVbyxETLIRA-KMppYgs4SQ=" alt="this is a placeholder image" caption="This is a figure caption." %}
+{% include figure image_path="https://lh3.googleusercontent.com/RLq5dHlFVoaGVfqHi4LwhRXhSS_nPY0362VWfm0n3-_VXdDXqzD6DWTWdxdHJr_lJnjfZUR0d_0LVpEVEeLwogLIELlfjheRrHr3otovG57uFLxQiZLroVbyxETLIRA-KMppYgs4SQ" alt="this is a placeholder image" caption="This is a figure caption." %}
 
 
 内容は60cm水槽の紹介を中心に，小特集で塊根植物がありました．最近は随所で陸上植物系の紹介も増えていますね〜 自分の場合は面白そうとは思うものの，値段も高そうだし意外と場所も取るしでなかなか手はでませんね．一方で特に水草に特化した記事はありませんでした．あんまり需要がないんですかね．
 
-{% include figure image_path="https://lh3.googleusercontent.com/5OEr0P8f49vukYMXrVv5M1ZSSVPJPpfxuwY4aDr_01NL1ZQS1-h37x2BTwpJE55DyP1RLewcQK_Ia0bxkzvUuAWoDdx3kJ-I_dpOhrPflzZHNtU4fcPp30fjBttEcRLBrmXEPATqYQ=" alt="this is a placeholder image" caption="This is a figure caption." %}
+{% include figure image_path="https://lh3.googleusercontent.com/5OEr0P8f49vukYMXrVv5M1ZSSVPJPpfxuwY4aDr_01NL1ZQS1-h37x2BTwpJE55DyP1RLewcQK_Ia0bxkzvUuAWoDdx3kJ-I_dpOhrPflzZHNtU4fcPp30fjBttEcRLBrmXEPATqYQ" alt="this is a placeholder image" caption="This is a figure caption." %}
 
 
 
