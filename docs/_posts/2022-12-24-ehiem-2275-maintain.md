@@ -57,7 +57,7 @@ description: >-
 
 最後にウールマットですが，これもとんでもない汚れ具合ですね．．． 90水槽時代から数えて数ヶ月分のゴミを吸収しているので仕方ないですが．．． これは今回もう捨ててしまいます． 
 
-{% include figure image_path="https://lh3.googleusercontent.com/MMEGF59jLgf5IDWlW252UmxnYHwCqtd9bGYaWfCmC3meFvC_p6VOfps7Mx9_fsqety4VwI6P-MHYgRONvcKXVLL-WloBWwUZRagstB1dhwdPfXTtvyJYf3QTYLNIoCzkWTEzoq0DpQ",alt="this is a placeholder image" caption="水" %}
+{% include figure image_path="https://lh3.googleusercontent.com/MMEGF59jLgf5IDWlW252UmxnYHwCqtd9bGYaWfCmC3meFvC_p6VOfps7Mx9_fsqety4VwI6P-MHYgRONvcKXVLL-WloBWwUZRagstB1dhwdPfXTtvyJYf3QTYLNIoCzkWTEzoq0DpQ" alt="this is a placeholder image" caption="水" %}
 
 
 今回はあえて新しいウールマットは補充せずにどうなるかみてみようと思います．というのも，プレフィルターを使っても結局ウールマットを使うのでは，汚れるのはウールマットの方が早いわけで，あまりメンテナンス期間は縮まらないんですよねぇ．というわけでできればウールマットは使いたくない，だけど使わないと水の透明度には差が出てくるわけです．が，今回は2275を2台使っているので，片方ウールマットがなくてもまあなんとかなるだろうという期待があります．これで数ヶ月テストしてみていけそうか判断します．
