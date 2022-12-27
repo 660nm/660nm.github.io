@@ -6,7 +6,8 @@ categories:
 tags:
  - ehiem
 header:
-  teaser: ""
+  teaser: "https://lh3.googleusercontent.com/23CJpm4S43h5f5Ilne42DIlWEycCHCdxQ_5BQX2TGhmqiRYa-vAxFQjglsOAo-U5XzDYqFf_YPWhuQo1Y0BhCQLQGQJ6i_\
+ MrAJCR5eH9csAwU5vNF4OdHOam_CimGZZb_72_Gs01Qg"
 description: >-
   年末といえばフィルター清掃！ということでエーハイムの2275をメンテナンスしました．
 ---
