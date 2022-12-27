@@ -6,7 +6,7 @@ categories:
 tags:
  - 書籍
 header:
-  teaser: "https://lh3.googleusercontent.com/RLq5dHlFVoaGVfqHi4LwhRXhSS_nPY0362VWfm0n3-_VXdDXqzD6DWTWdxdHJr_lJnjfZUR0d_0LVpEVEeLwogLIELlfjheRrHr3otovG57uFLxQiZLroVbyxETLIRA-KMppYgs4SQ"
+  teaser: "https://lh3.googleusercontent.com/WfcFCZiekTp46keLXb4lVl6oeeYB_i10-5UYhGk-qEGBbV7df5l4SezLSCEKuw4SFN4Hl4wVhyAAOm0zbosn6z2xshKKNRmWSR_6hy6VBlbDbdSLkSzJwexQk9oiv1lCJEMkTXd0ZA"
 description: >-
   今年のアクアプランツ（No.19）を購入！
 ---
