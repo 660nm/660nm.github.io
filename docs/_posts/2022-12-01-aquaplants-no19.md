@@ -6,16 +6,14 @@ categories:
 tags:
  - 書籍
 header:
-  teaser: ""
+  teaser: "https://lh3.googleusercontent.com/RLq5dHlFVoaGVfqHi4LwhRXhSS_nPY0362VWfm0n3-_VXdDXqzD6DWTWdxdHJr_lJnjfZUR0d_0LVpEVEeLwogLIELlfjheRrHr3otovG57uFLxQiZLroVbyxETLIRA-KMppYgs4SQ"
 description: >-
-  今年のアクアプランツを購入！
+  今年のアクアプランツ（No.19）を購入！
 ---
 
 ## アクアプランツ No.19
 
 月間アクアライフから毎年夏に発売されるアクアプランツ．今年も買うつもりでいましたがあまりの忙しさにすっかり忘れていました．というわけで今更購入しました．ちなみに購入後に気づいたのですが今年から（？）電子書籍版も発売されているようです．アクアライフは家のスペースの問題で去年から電子書籍版を購入していたので，アクアプランツも電子書籍版にすればよかったです．
-
-<a href="https://lh3.googleusercontent.com/RLq5dHlFVoaGVfqHi4LwhRXhSS_nPY0362VWfm0n3-_VXdDXqzD6DWTWdxdHJr_lJnjfZUR0d_0LVpEVEeLwogLIELlfjheRrHr3otovG57uFLxQiZLroVbyxETLIRA-KMppYgs4SQ=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/RLq5dHlFVoaGVfqHi4LwhRXhSS_nPY0362VWfm0n3-_VXdDXqzD6DWTWdxdHJr_lJnjfZUR0d_0LVpEVEeLwogLIELlfjheRrHr3otovG57uFLxQiZLroVbyxETLIRA-KMppYgs4SQ=w600-h315-p-k" /> </a>
 
 {% include figure image_path="https://lh3.googleusercontent.com/RLq5dHlFVoaGVfqHi4LwhRXhSS_nPY0362VWfm0n3-_VXdDXqzD6DWTWdxdHJr_lJnjfZUR0d_0LVpEVEeLwogLIELlfjheRrHr3otovG57uFLxQiZLroVbyxETLIRA-KMppYgs4SQ" alt="this is a placeholder image" caption="アクアプランツ No.19" %}
 
