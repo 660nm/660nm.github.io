@@ -77,18 +77,27 @@ description: >-
 
 今回ろ材にはパワーハウスMを選択しました．2275で使っていて調子も良さそうだったので引き続きの起用です．5Lの一箱を丸々使うので出費がなかなか大変です．サブストだと6割くらいの値段で手に入るのですが，経験的にサブストよりパワーハウスの方が頑丈なので長持ちするのはパワーハウスかなという気がします．パワーハウスのph調整効果はどうせ新品開封して数ヶ月しか使えないのであまり気にしていません．うまいことこの調整効果を再生できるなら良いのですがねぇ．たとえばクエン酸みたいな弱酸に浸したら効果があるのでしょうか？ そのうち試してみたいですね．
 
-
 クラシック系統はろ材ネットがないとメンテナンスがやりにくくて大変なので，エーハイムのネットバック（フリーサイズ）も購入．スモールサイズというのもあってそっちは2217には小さすぎるらしいので注意が必要です．
 
+{% include figure image_path="" caption="本体拡大．金属爪" %}
+
+{% include figure image_path="https://lh3.googleusercontent.com/WIxy9WmMFdK8OzNgOybY3ca_q3P_gji06iaT-_BkXgsrNknQsR29uCQ-J4rlCzAL41n5_r4HMdLN_LmgCmJnlyolPgeOc04K-kddDLQEDmyJ87KfbiOlvMRmRCGBRS54KpBIwLGhwA" caption="600円と結構高い．" %}
+
+中身は本当にただのネットとそれを縛るプラスチック部品だけなので，これならよいサイズの洗濯ネットを探した方がよかったかも．．．
+
+{% include figure image_path="https://lh3.googleusercontent.com/2CulMQ1pct5mr9KMkRELYCgoe7YuXNcD2NCkcbl1Ub2dqilY-hkzNEwaozG757OCTySQHo3LUUWlcQvPUCr13vl6Omjzz21PkzPlCgXlBLXTMq7AvQy34mKXjye1ddS63H5aCx8S3w" caption="緑のが口を縛る部品" %}
+
+{% include figure image_path="https://lh3.googleusercontent.com/klk4p1bswl9ogaxsZ6_G95n8EbehpqyaQUPZCaETCPSP0k7MmFJARjx9WaizcTcQwy_t9qIkaHWDjGn8fGq02hiHqP42U35o5138eTzrNvCIOBwDqmGTPOYygll47y8VV7LdUWFI0w" caption="本体拡大．金属爪" %}
 
 
 チャームで買ってストックしてあった[ミドリネット（荒目）](https://www.shopping-charm.jp/product/2c2c2c2c-2c2c-2c2c-2c2c-2c3531363431)も試してみましたが，サイズが長さ26×直径22cmの円筒形で若干小さく，2217には不適でした．使うなら2215以下を推奨します．物自体はすごい柔らかくてマルチな用途に使えるのでおすすめです．
 
+{% include figure image_path="https://lh3.googleusercontent.com/kpUcWCoUnSjEnQ5QooulENv-eK8UsTJ9nD3hG8djkXQcdah-KZc9e8wvkM8bXhxgHVvBZ2q5JWdmJyEaLicSEcQbKx_5BLcc5GMK3n9Nm7vPOq6r74Vp-JKb9GkwapgR0-Hwswutxg" caption="ミドリネットは直径が2217には足りず．．．" %}
 
-メンテ時のことを見越して，ネットバック二つにパワーハウスをわけて投入．
 
+## まとめ
 
-## 
+今回は2217の開封と簡単な紹介でした．これは次の90センチ水槽のメインフィルターとして利用するつもりなので，90の立ち上げ時（多分3-4月くらい）にまた紹介すると思います．
 
 
 
