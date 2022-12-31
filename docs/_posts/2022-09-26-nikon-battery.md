@@ -2,13 +2,12 @@
 title:  "NikonのバッテリーEN-EL15cを購入，安いバッテリーチャージャーを購入"
 date:   2022-09-26 21:00:00 +0900
 categories: 
- - others 
+ - camera
 tags:
- - google
- - photo
+ - nikon
 header:
-  teaser: "https://lh3.googleusercontent.com/otJkw2ojeCtiJn-YXUbgjI4FFoe8FXr4S_UYHQufGEQvVyBtJXrzYrNa5SsE5kG84eTz6g5uN5nE4u2OWe2OJnZaKTvZBO\
- endcmM8_p6TQ_VP9oyVcdjidNUMxGQgLqeem3hyqljWQ"
+  teaser: "https://lh3.googleusercontent.com/pw/AL9nZEXAZoF7hqd7ieZJnFWhD32bc1_rKVUBHu4QxwtK3tzT1Vp8bQ2YSPXj1MszLsluQ0lEx8YSYIGycvQcMgmDJT\
+ GIW_yo48_yHhTQIwQPiaIolJkCvRr6Wh6Hg4HqZigNkFZHKz3ifBj7bMb98O-47MFv=w800-h533-no?authuser=0"
 description: >-
   SonyのSEL2860用の小さいレンズフードを購入しました．
 ---

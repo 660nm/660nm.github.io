@@ -4,8 +4,6 @@ date:   2022-10-06 21:00:00 +0900
 categories:
  - others
 tags:
- - google
- - photo
 header:
   teaser: "https://lh3.googleusercontent.com/pw/AL9nZEVWxkYxUGBs89MgAT_OjPu0akqSVTvX0EhuTCS10-hwTaBYb4Uk50hIrz2kPj7IzkDlcwr0GDOs08fGdV6eMk\
  yI0mEOzVmd4M09W8gSB-CIIPaGRIysWhZczlBCSDa2LV0b_gwgRCTyfEyEQca10fod=w800-h532-no?authuser=0"

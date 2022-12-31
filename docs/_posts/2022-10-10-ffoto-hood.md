@@ -1,14 +1,13 @@
 ---
 title:  "ffoto クラシックメタルフードを購入（SEL2860用）"
-date:   2022-12-19 21:00:00 +0900
+date:   2022-10-10 21:00:00 +0900
 categories: 
- - others 
+ - camera
 tags:
- - google
- - photo
+ - sony
 header:
-  teaser: "https://lh3.googleusercontent.com/otJkw2ojeCtiJn-YXUbgjI4FFoe8FXr4S_UYHQufGEQvVyBtJXrzYrNa5SsE5kG84eTz6g5uN5nE4u2OWe2OJnZaKTvZBO\
- endcmM8_p6TQ_VP9oyVcdjidNUMxGQgLqeem3hyqljWQ"
+  teaser: "https://lh3.googleusercontent.com/pw/AL9nZEV17ttmLCY6jhKuCTWtBZsAbRYFjC6vc7SNGZBUGo-4EZqk7kDR0ced5PKyqCAYs7SihRdoRh5AoC7zHmb9Vd\
+ _JtQeNwgyxPwUqidOTPGBkgFOV2fFFxeuIuVwP56ELe327bmV-UX5hVw4Qu80WZgw6=w800-h532-no?authuser=0"
 description: >-
   SonyのSEL2860用の小さいレンズフードを購入しました．
 ---
@@ -19,8 +18,6 @@ sonyのレンズSEL2860は小型軽量でなかなかよいレンズですが，
 
 
 前々からなにか保護用にフードが欲しいと思っていまして，今回ffotoのを購入してみました．ffotoのフードは以前にNikkor z 28mm用に買ったものが良かったのでリピートといった感じです．フィルター径は40.5mmと小さいので値段も大したことありません．
-
-{% include figure image_path="" alt="this is a placeholder image" caption="フード装着時" %}
 
 {% include figure image_path="https://lh3.googleusercontent.com/pw/AL9nZEV17ttmLCY6jhKuCTWtBZsAbRYFjC6vc7SNGZBUGo-4EZqk7kDR0ced5PKyqCAYs7SihRdoRh5AoC7zHmb9Vd_JtQeNwgyxPwUqidOTPGBkgFOV2fFFxeuIuVwP56ELe327bmV-UX5hVw4Qu80WZgw6=w800-h532-no?authuser=0" alt="this is a placeholder image" caption="" %}
 
