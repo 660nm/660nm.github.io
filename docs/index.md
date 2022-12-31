@@ -8,6 +8,8 @@ header:
    overlay_image: "assets/images/teaser.jpg"
    caption: "" 
 excerpt: ""
+intro:
+  - excerpt: ""
 feature_row:
   - image_path: /assets/images/teaser.jpg
     alt: "placeholder image 2"
@@ -44,6 +46,11 @@ feature_row4:
 
 {% include feature_row id="intro" type="center" %}
 
+{% include feature_row id="feature_row" type="left" %}
+
+{% include feature_row id="feature_row2" type="right" %}
+
+{% include feature_row id="feature_row3" type="center" %}
 
 github pages環境へ移植中です．旧ブログは[こちら](https://diracconstant6582evs.blog.fc2.com/)
 
