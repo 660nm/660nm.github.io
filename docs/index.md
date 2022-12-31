@@ -8,8 +8,6 @@ header:
    overlay_image: "assets/images/teaser.jpg"
    caption: "" 
 excerpt: ""
-intro:
-  - excerpt: ""
 feature_row:
   - image_path: /assets/images/teaser.jpg
     alt: "placeholder image 2"
