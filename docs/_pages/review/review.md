@@ -42,9 +42,6 @@ light:
     alt: "placeholder image 2"
     title: "ボルクスジャパン GrassySolar"
     excerpt: ""
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 camera:
   - image_path: /assets/images/teaser.jpg
     alt: "placeholder image 1"
@@ -55,9 +52,6 @@ camera:
     alt: "placeholder image 2"
     title: "Sony α7C"
     excerpt: "Sonyから2020年10月に発売された小型モデル"
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
   - image_path: /assets/images/teaser.jpg
     title: "Nikon Z6"
     excerpt: "Nikonから2018年11月に発売された初代Zマウントミラーレス"
@@ -80,7 +74,10 @@ lens:
   - image_path: /assets/images/teaser.jpg
     title: "Sigma 105mmF2.8DGDN MACRO art"
     excerpt: "105mmのマクロレンズ"
-  - image_path: /assets/images/teaser.jpg
+    url: "/review/sigma105/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+- image_path: /assets/images/teaser.jpg
     title: "TAMRON 50-400mm F/4.5-6.3 Di III VC VXD"
     excerpt: "50mmから400mmまで倍率8倍の望遠ズーム"
   - image_path: /assets/images/teaser.jpg
