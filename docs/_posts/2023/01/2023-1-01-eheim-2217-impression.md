@@ -7,7 +7,7 @@ tags:
  - eheim
  - 90P
 header:
-  teaser: "https://lh3.googleusercontent.com/a6RP6zpXPb2LtWuuJlbULj_gI4FTbKQfGV4dNfFMWDJovLy_VDSQyHb3ZXQel_VvE644jZDR4EIQt8dXP4il6DMgz1f8zAPew0cPgKaf6RLy6benKIVVw_Awq6mmV5m0iaLwsCKl=s0"
+  teaser: "https://photos.app.goo.gl/HNF3dgrZvF65XmRr5"
 description: >-
   実は購入してストックしてあったエーハイム2217を開封，主に外観について紹介します．
 ---
