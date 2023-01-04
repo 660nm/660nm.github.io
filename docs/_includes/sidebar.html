@@ -26,10 +26,11 @@
   {% assign posts = site.posts %}
 {% endif %}
 
+<!-- for limited posts, see https://keithgreer.dev/jekyll-posts-loop-liquid-template -->
 <ul class="nav__items">
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 <div class="entries-{{ entries_layout }}">
-  {% for post in posts %}
+  {% for post in posts limit:5 %}
   {% if post.header.teaser %}
    {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
   {% else %}
