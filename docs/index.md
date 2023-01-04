@@ -11,7 +11,7 @@ excerpt: ""
 intro:
   - excerpt: ""
 feature_center:
-  - image_path: /assets/images/teaser.jpg
+  - image_path: /assets/images/waterplant.jpg
     alt: "placeholder image 2"
     title: "水草"
     excerpt: "育てている水草や，水草の育成方法などについて紹介します．"
