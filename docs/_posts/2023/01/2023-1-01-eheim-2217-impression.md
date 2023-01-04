@@ -7,11 +7,10 @@ tags:
  - eheim
  - 90P
 header:
-  teaser: "https://photos.app.goo.gl/HNF3dgrZvF65XmRr5"
+  teaser: "https://lh3.googleusercontent.com/pw/AL9nZEX8l57jJ59eurpfZYQr9h4iYjskqV2oVBDgU2dGItfM_9B23hyzR5HoR2VUho9uCgsPIafQdzL07NlNxCSM8vrhKCpD1giOxn2-qcLtjUq06GuvBgSWpIPZbvgv_vr1awCsvrqJzevY0CtoRprPPD2a=w800-h533-no?authuser=0"
 description: >-
   実は購入してストックしてあったエーハイム2217を開封，主に外観について紹介します．
 ---
-
 
 みなさん，新年あけましておめでとうございます．なかなか更新頻度が安定していませんが，どうぞ今年もよろしくお願いいたします．
 
@@ -87,7 +86,7 @@ description: >-
 
 {% include figure image_path="https://lh3.googleusercontent.com/2CulMQ1pct5mr9KMkRELYCgoe7YuXNcD2NCkcbl1Ub2dqilY-hkzNEwaozG757OCTySQHo3LUUWlcQvPUCr13vl6Omjzz21PkzPlCgXlBLXTMq7AvQy34mKXjye1ddS63H5aCx8S3w" caption="緑のが口を縛る部品" %}
 
-{% include figure image_path="https://lh3.googleusercontent.com/klk4p1bswl9ogaxsZ6_G95n8EbehpqyaQUPZCaETCPSP0k7MmFJARjx9WaizcTcQwy_t9qIkaHWDjGn8fGq02hiHqP42U35o5138eTzrNvCIOBwDqmGTPOYygll47y8VV7LdUWFI0w" caption="本体拡大．金属爪" %}
+{% include figure image_path="https://lh3.googleusercontent.com/klk4p1bswl9ogaxsZ6_G95n8EbehpqyaQUPZCaETCPSP0k7MmFJARjx9WaizcTcQwy_t9qIkaHWDjGn8fGq02hiHqP42U35o5138eTzrNvCIOBwDqmGTPOYygll47y8VV7LdUWFI0w" caption="サイズは心配いりません" %}
 
 
 チャームで買ってストックしてあった[ミドリネット（荒目）](https://www.shopping-charm.jp/product/2c2c2c2c-2c2c-2c2c-2c2c-2c3531363431)も試してみましたが，サイズが長さ26×直径22cmの円筒形で若干小さく，2217には不適でした．使うなら2215以下を推奨します．物自体はすごい柔らかくてマルチな用途に使えるのでおすすめです．
