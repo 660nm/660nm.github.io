@@ -1,12 +1,13 @@
 ---
-title: "アヌビアス キリンミニ 購入1年後くらい経過"
-date: 2022-07-21 21:00:00 +0900
+title: "アヌビアスキリンミニ 購入1年後くらい経過"
+data: 2022-07-21 21:00:00 +0900
 categories: 
  - 水草
 tags:
  - アヌビアス
  - aミニキリン
-teaser:"https://lh3.googleusercontent.com/pw/AL9nZEX1dGh2AU9lTA0TTUuBsXiPM4cHiAgXFKg6JU32ERBEQWoqIebOvvGkXMVNQCNHCL3siYCzWkvzZU5ZQrOKbWu8UPbuQpsdY-m9ck87Ecd5fbSqLLACPI3k2qw7hohkDmdVqKLo2NdVAYu7wMpOperW=w800-h533-no?authuser=0"
+header:
+ teaser:"https://lh3.googleusercontent.com/pw/AL9nZEX1dGh2AU9lTA0TTUuBsXiPM4cHiAgXFKg6JU32ERBEQWoqIebOvvGkXMVNQCNHCL3siYCzWkvzZU5ZQrOKbWu8UPbuQpsdY-m9ck87Ecd5fbSqLLACPI3k2qw7hohkDmdVqKLo2NdVAYu7wMpOperW=w800-h533-no?authuser=0"
 description: >-
  アヌビアスキリンミニが購入後1年経過したので簡単に紹介します．
 ---
