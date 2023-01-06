@@ -77,7 +77,7 @@ lens:
     url: "/review/sigma105/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-- image_path: /assets/images/teaser.jpg
+  - image_path: /assets/images/teaser.jpg
     title: "TAMRON 50-400mm F/4.5-6.3 Di III VC VXD"
     excerpt: "50mmから400mmまで倍率8倍の望遠ズーム"
   - image_path: /assets/images/teaser.jpg
