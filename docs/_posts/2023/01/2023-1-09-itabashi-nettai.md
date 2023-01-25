@@ -7,7 +7,7 @@ tags:
  - eheim
  - 90P
 header:
-  teaser: "https://lh3.googleusercontent.com/a6RP6zpXPb2LtWuuJlbULj_gI4FTbKQfGV4dNfFMWDJovLy_VDSQyHb3ZXQel_VvE644jZDR4EIQt8dXP4il6DMgz1f8zAPew0cPgKaf6RLy6benKIVVw_Awq6mmV5m0iaLwsCKl=s0"
+  teaser: "https://lh3.googleusercontent.com/eMEZXBWE94ATtNiswi4lYk1juNeQH1imcRWd0-ID98W6BHMmSLA6ikVGM0KbYO0dWT0s2FzuU8q7C5oOcs3E1Je6dJZwS6Hx0pAOqR2Y0zO6hCJLmUeV11iAHDr6MLotN30f-uaqvQ"
 description: >-
   世界最大の淡水エイを飼育していることで有名な板橋熱帯植物館へ行ってきたので簡単な紹介．お値段も260円と格安なので熱帯魚ファンは訪れるべきスポットです．
 ---
