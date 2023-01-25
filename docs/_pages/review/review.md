@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/teaser.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "アクア用品とカメラ用品のレビューページです．ブログ記事を元により詳しく記述していこうと考えています．"
+excerpt: "アクア用品とカメラ用品のレビューページです．ブログ記事を元により詳しく記述していこうと考えています．（現在工事中）"
 intro:
   - excerpt: "利用しているアクア用品や，撮影に使っているカメラ機材，その他個人的に記事を残しておきたい物についてレビューや所感を書いていきます．"
 filter:
