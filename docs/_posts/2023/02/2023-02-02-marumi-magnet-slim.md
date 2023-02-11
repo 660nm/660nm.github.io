@@ -1,6 +1,6 @@
 ---
-title:  "Nikon Z6が故障したので修理した"
-date:   2023-1-16 21:00:00 +0900
+title:  "Marumi マグネット式フィルターを購入"
+date:   2023-3-31 21:00:00 +0900
 categories: 
  - utility
 tags:
@@ -9,7 +9,7 @@ tags:
 header:
   teaser: "https://lh3.googleusercontent.com/a6RP6zpXPb2LtWuuJlbULj_gI4FTbKQfGV4dNfFMWDJovLy_VDSQyHb3ZXQel_VvE644jZDR4EIQt8dXP4il6DMgz1f8zAPew0cPgKaf6RLy6benKIVVw_Awq6mmV5m0iaLwsCKl=s0"
 description: >-
- 外部フィルターの呼び水ができるエーハイムのスターターを購入
+ Marumiのマグネットで着脱できる円形フィルターを購入．
 ---
 
 登山で使うカメラレンズのフィルターとしてMarumiのマグネットスリムというものを購入したので紹介します．これはなかなかおすすめです．
