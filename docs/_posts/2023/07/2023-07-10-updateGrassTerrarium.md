@@ -7,7 +7,7 @@ tags:
  - javamoss
  - aquaculture
 header:
-  teaser: "https://lh3.googleusercontent.com/a6RP6zpXPb2LtWuuJlbULj_gI4FTbKQfGV4dNfFMWDJovLy_VDSQyHb3ZXQel_VvE644jZDR4EIQt8dXP4il6DMgz1f8zAPew0cPgKaf6RLy6benKIVVw_Awq6mmV5m0iaLwsCKl=s0"
+  teaser: "https://lh3.googleusercontent.com/pw/AIL4fc9T_L_6KAjmmkiuEC8m70wNg3sb6AdC3fUZqnPe4DCnbZFvAcRBDJDNezXnWwNJy7k1OCqIGnIhe05qxXkgrciCfyI3ZTtASJJbVZ2sm9f5mLD2rtE=w2400"
 description: >-
   前からグラステラリウムで育てていたモスですが，育ちが悪くなってきたので環境を再構築します．
 ---
@@ -42,7 +42,9 @@ Gexのグラステラリウム ミニ（20*20*30の水槽）をつかってト�
 
 {% include figure image_path="https://lh3.googleusercontent.com/pw/AIL4fc98WOPcutCyy7FLav7vH2olioT2wtWpeiI9Q2H3bra4NDr1TydB2IJAkLus6dF3KmQsvq2ZVzrgQ9KpQE4uth2UABocwR9MIhQhIA-mhYcyFEY43sQ=w2400" alt="this is a placeholder image" caption=""%}
 
+## まとめ
 
+ということで，1年ちょっとぶりにグラステラリウムを半リセットしました．水苔を使った環境は今の所湿度を保ってくれてそうで満足です．実は追加でミスティング機器も購入しており，追って設置しようと考えています．
 
 
 
