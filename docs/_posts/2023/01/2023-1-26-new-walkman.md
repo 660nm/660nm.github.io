@@ -1,6 +1,6 @@
 ---
 title:  "Sonyから新しいwalkmanが出たらしい"
-date:   2023-3-31 21:00:00 +0900
+date:   2024-3-31 21:00:00 +0900
 categories: 
  - utility
 tags:
