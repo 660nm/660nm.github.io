@@ -4,19 +4,7 @@ date:   2023-3-31 21:00:00 +0900
 categories: 
  - 水草
 tags:
- - rhra
- - rオレンジジュース
- - rパウーナニ
- - 
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: https://lh3.googleusercontent.com/pw/AL9nZEX7KPPkEiMcBUSvhEEupABrWoR_JIFnY7lvhig_GVel7MZD1eCaHszcAbsYbcX8P1WTjZEAWWnW7wC8pUkpw8zXfpyXwWrhy4I_FwQOaT6RucRYqfVt4mlzEQwgSPBcH8LZAUnmVBY22z_vfiQo_Ttb=w800-h533-no?authuser=0
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: https://lh3.googleusercontent.com/pw/AL9nZEX3ClFxn0TgjWzOhST_1KBWN6N4_zzjFdV1t48RJR07sRfptxzEivq0kFOeWK4MkNlBTxsQdds3BbHd5JSIsd6r8oXOX82J6dlFCz88xMgK2Pi8ukVieoAWyNNVCRpZH8d1qM6KWnFyN9QYtcO5uu0w=w800-h533-no?authuser=0
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+ - 自作
 header:
   teaser: "https://lh3.googleusercontent.com/pw/AL9nZEWXl3_GkvR1Fw9Hk3pZQjp-qHpoSuebuYefmqBsZ9r7Zre-mCW79tiEBODZCU9Vz89ycxEJFUcxRgmg14fICzBwOnqgk1dT8pqBKZUOZW8SHdogidDFVuzr_OWRJrZ1SA7Qa52v7SBASB7jLvyfAFtq=w800-h532-no?authuser=0"
 description: >-
@@ -28,16 +16,21 @@ description: >-
 以前，本ブログでマグネシウム液肥の作り方についての記事を作成しました．ところがカリウム液肥についてはまだ記事にしていなかったということに気がついたので今日はカリウム液肥についての記事です．記事自体は2回に分けようと考えていて，今回は1回目になります．（2回目がいつになるかは例によって未定．．．）
 
 
-カリウムは窒素，リンとならぶ三大栄養素の一つです．これらの三大栄養素はほかの微量元素と呼ばれる栄養素に比べて植物の要求量が多く，基本的には何らかの形で補給してやる必要があります．このうち窒素は，リンは熱帯魚の餌として自然と供給されるため，あまり積極的に補給しなくても大丈夫なケースが多いです．特にリンは過剰になると黒髭などがでやすい（？）ということで添加しないようにと教わってきました．窒素はリンほど嫌われていませんが，こちらも熱帯魚がいればある程度維持されやすいです．
+カリウムは窒素，リンとならぶ三大栄養素の一つです．これらの三大栄養素はほかの微量元素と呼ばれる栄養素に比べて植物の要求量が多く，基本的には何らかの形で補給してやる必要があります．このうち窒素とリンは熱帯魚の餌として自然と供給されるため，あまり積極的に補給しなくても大丈夫なケースが多いです．特にリンは過剰になると黒髭などがでやすい（？）ということで添加しないようにと教わってきました．窒素はリンほど嫌われていませんが，こちらも熱帯魚がいれば短期的にはある程度維持されやすいです．
 
-一方でカリウムは水換えによって流出しやすく，魚からの供給も期待できないことから，おそらくほとんどの水草水槽で液肥の添加が必要になります．カリウムが不足してくると
+一方でカリウムは水換えによって流出しやすく，魚からの供給も期待できないことから，おそらくほとんどの水草水槽で液肥の添加が必要になります．カリウムが不足してくると欠乏症状が旧葉部から発生する．根に近い葉っぱに以下のような症状が出て来たらカリウム不足のサインです．
+
+- 先端や周縁部から白っぽく色が抜けてくる．
+- 白くなった葉に黒い点が出来るように壊死するところが現れ，葉に穴が開く．
+- 葉が縮れたりうねったりする．
+- 茎や葉脈が（本来そういう種類ではないのに）赤っぽくなる．
 
 以上のような理由から，三大栄養素の中でもカリウム液肥の重要性が極めて高い，ということになります．他の微量元素とちがって量も必要ですから，市販の高いものを使うくらいだったら自分で作ってしまえ，というアクアリストが多いのも頷けます．
 
 
 ## カリウム液肥の自作方法について
 
-自作にあたって，カリウム源をどうするかという問題があります．条件としては
+自作にあたって，カリウム源として何を使うかという問題があります．条件としては
 
 - 魚に害がない
 - 入手しやすい，値段も高くない
@@ -45,73 +38,84 @@ description: >-
 
 といったあたりが挙げられるかとおもいますが，最も一般的に用いられているのは炭酸カリウム（K2CO3）です．炭酸カリウムは白色結晶で水によく溶け，入手性も悪くないからでしょう．一方で，炭酸塩なので硬度をあげる，pHが高いという欠点もあります．とはいえ，pHが高い点については中和すれば問題ありませんし，硬度も一般的な水草ならそこまで気にしなくて大丈夫です．今回はこの炭酸カリウムをつかった方法をとりあげます．
 
+{% include figure image_path="" caption="" %}
+
+こうしたデメリットを避けたい場合，他の候補として硫酸カリウムも挙げられます．硫酸カリウムは炭酸カリウムほど入手性が良くありませんが農業などで肥料としてよく使われる物質で，これを2回目の記事で取り上げる予定です．
+
+## 炭酸カリウムを利用したカリウム液肥の濃度
+
+炭酸カリウムK2CO3はモル質量138g/molです．作る濃度はカリウムイオン換算で3%や5%が使いやすいかなと感じますが水槽サイズによって変えてもよいです．ちなみに，この手の濃度計算で注意しないといけないのが濃度をカリウムイオン換算で計算するか炭酸カリウム換算で計算するかですが，栄養素となるのはあくまでカリウムであるという観点から本記事ではカリウムイオン濃度を採用しています．炭酸カリウムの濃度換算にするには138/78~1.77倍すれば良いです．
+
+また，肥料法で定められた肥料の場合は酸化カリウムK2Oに換算する決まりで，より計算が面倒です．園芸用の成分表示された液体肥料だとN-P-Kで表示されますがこの数値のKはK2O換算の重量パーセントです．たとえば我が家でも使っているハイポネックス 観葉植物用はNPKが7-4-4ですが，これはK2Oの重量パーセントが7%，したがってカリウムイオン換算だと
+
+7 * (78/94) = 7 * 0.83 = 5.8 %
+
+となります．ここでK2Oのモル質量が94であることを使っています．逆の変換を行えば，たとえばカリウムイオン3％の溶液はK2O換算で
+
+3 / 0.83 = 3.6 %
+
+ということになります．この数字は市販の液肥との比較の時に使える便利な数字です．
+
+まとめると，炭酸カリウム液肥の濃度の表示としては炭酸カリウム換算，カリウム換算，酸化カリウム換算（肥料法準拠）の三つのパターンが考えられます．
+
+| 炭酸カリウム換算 | カリウム換算 | 酸化カリウム換算 |
+| 1 %              |     0.57%    |       0.68%      | 
+| 1.77%            |     1%       |       1.2%       | 
+| 1.47%            |     0.83%    |         1%       | 
 
 
-こうしたデメリットを避けたい場合，他の候補として硫酸カリウムも挙げられます．硫酸カリウムは農業などで肥料としてよく使われる物質で，これを2回目の記事で取り上げます．
+## 炭酸カリウムを利用したカリウム液肥の作り方
+
+以下に3%で作る方法を載せます．必要な炭酸カリウムをxグラムとすると，カリウムの質量78g/molより
+
+x*78/138/(500+x) = 0.03
+
+を解いてx=28gとなります．したがって手順としては
+
+- 水500gを容器に入れる．精製水または煮沸水を使うとなおよし．
+- 炭酸カリウム28gを容器に入れる．
+ 
+となります．炭酸カリウムが水に溶ける反応は発熱反応で結構熱くなります．上の計算は純度100%で計算しています．購入時には純度を念のため確認してください．
+
+炭酸カリウムは強酸ゆえこのままだとpHが高くなってしまうので，私は一応中和して使うようにしています．酸性液体としてはここにクエン酸が入手性や安全性から優れているでしょうか．クエン酸をつかう場合の中和反応はクエン酸カリウムを発生させる以下のような反応です．
+
+3*K2CO3+2*C(OH)(CH2COOH)2COOH -> 2*C(OH)(CH2COOK)2COOK + 3H2O+3CO2
+
+クエン酸のモル質量は192g/molなので，上で用意した500ml溶液を中和するために必要なクエン酸の量は
+
+(28/138) * 2/3 * 192 = 26 g
+
+です．この反応では二酸化炭素が発生するため，液体が跳ねないように十分注意します．
 
 
+## 添加量の目安
 
-## 炭酸カリウムを利用したカリウム液肥の作成方法
-
-
-
+添加量についてはかなり水槽ごとの環境に依存する部分があり，これだけ入れれば良いという黄金律はありません．国内で販売されているアクアリウム用液肥も肥料として扱われていないため，成分表示がなく各メーカーが推奨している添加量も把握しにくいです．細かい話はまた今度に回すとして，水中のカルシウムイオン濃度が~10ppm程度を保てば良いので，このオーダーで施肥していくのが安全かと思います．私は経験上，60センチ水槽（約60L）換算で3%液を2mlくらいから添加を開始します．ロタラが繁茂している場合は最終的に10ml程度まで増やす場合があります．
 
 
+## カリウム過剰への注意
+
+最後に，カリウム液肥を入れすぎるとそれはそれでよくないので簡単に言及します．カリウムはカルシウムやマグネシウムと拮抗関係にあり，どれかひとつが過剰になると他の成分の吸収を阻害します．したがってカリウムを過剰に入れるとカルシウム不足やマグネシウム不足の症状が見られます．
+
+- マグネシウム不足（旧葉部から症状が出る．）
+  - 旧葉が葉脈を残して黄色くなる。窒素不足の時とは違って斑っぽくなる．
+- カルシウム不足（新芽から症状がでる．）
+  - 根っこが弱くなる
+  - 成長点が白っぽくなる，委縮する．
+  - 新芽が出来にくくなる．新芽の成長力が弱くなる．
+
+これらの症状がでたらカリウムの添加をとめ，水換えしてリバランスするようにします．
+
+どれくらい添加するとこれらの症状が出るかというのは難しいところですが，一般論としてはGH（CaとMgイオンの総量）が低い方が過剰になりやすいので，自身の水槽のGHを把握して調整する必要があります．私の場合別途Mgも液肥として添加していて
 
 
+## その他の注意点
 
-実は昨年購入していたCFexpress type A カードリーダーの紹介記事です．購入したのはこちらSonyから発売されているMRW-G2です．
+その他細かい注意点をいくつか．
 
-{% include figure image_path="https://lh3.googleusercontent.com/pw/AL9nZEWXl3_GkvR1Fw9Hk3pZQjp-qHpoSuebuYefmqBsZ9r7Zre-mCW79tiEBODZCU9Vz89ycxEJFUcxRgmg14fICzBwOnqgk1dT8pqBKZUOZW8SHdogidDFVuzr_OWRJrZ1SA7Qa52v7SBASB7jLvyfAFtq=w800-h532-no?authuser=0" caption="" %}
-
-
-以前CFexpresss type B/XQD カードリーダーのMRW-G1を購入してブログで紹介していて，それの兄弟機です．MRW-G2はG1と比べても数千円値段が張るのでもっと安いのでもいいかなーとは思ったのですが，type Bカードリーダーがかなり発熱するので大事を取って（？）Sonyを選択しました．また，CFexpress type AだけでなくSDカードも使えるのは地味にポイントが高いです．
-
-
-## 開封！
-
-内容物は本体に加えてUSB-C/USB-CケーブルとUSB-C/USB-Aケーブルが付属します．ここはSonyの良心．ケーブルの長さは約45cmほどと短めですが，かなりケーブル自体が太く取り回しはよくないです．
-
-{% include figure image_path="https://lh3.googleusercontent.com/pw/AL9nZEXYcLx5B59WNH_t_sW0ffumt4tvN_R_DSATrOuY_thiatrrQGPoijlGi2r0-lDAFK_1tlKam3tXiwV2M6u4GSW7igSy3EQaCOYPesfa7fjt60NGRC8yY0QCcuXAEMJ3nHnicmze5uW0W85n8iOVy0zp=w800-h532-no?authuser=0" caption="" %}
-
-- 本体
-- USB-C/USB-Cケーブル
-- USB-C/USB-Aケーブル
-- 保証書/説明書
-
-本体はG1とはサイズはほぼ一緒ですが見た目は少し違いますね．持ってみてわかったのですが，G1は金属製，G2はプラスチック製で，ひょっとするとこれがG1が少し高い理由かもしれません．CFexpress カードリーダーはかなり熱を持つので．金属製の方が放熱の観点では良さそうです．G1の方は格子状の穴で放熱に対応している感じでしょうか．金属製かプラ製かに起因して，重さも実測でG1が66g，G2が99gと結構違いがあります．私は家で使うので重い方が置いた時に安定して助かります．持ち運ぶ人は軽い方が良さそう．
-
-{% include figure image_path="https://lh3.googleusercontent.com/pw/AL9nZEXOIxEPSmTFvGy79uh5p6B40kTDThepqWTEX5uYEWG38nt6kKvjr7PVdwX-RwQVTDVvVJt4XxQs_iJPFePxvPiCfLinY6lW3GK4APfdjy8CCUX_lmd9JQifrg1hTz8iwsVbPE-4Efh3GyDPbsMysj1U=w800-h533-no?authuser=0" caption="左がG1，右が今回購入のG2" %}
-
-サイズは実測で程度，ちょうど手のひらサイズで置き場所に困ることはなさそうです．
-
-{% include figure image_path="https://lh3.googleusercontent.com/pw/AL9nZEUPuJDvPrbOheFm2aO0jrKy_2RNcQ8AW36bfOw2tvxNZwxjEOyIEJiMak8PzS00shcu-VUmEYZOP4-XXMfrCzIRgsbUvG1lwAjDR1PhpHRNGgdhq-q_paqdgjorK_EQ08kyHnlNEluCi-2H59McUDN5=w800-h533-no?authuser=0" caption="" %}
-
-カードの挿入側は一つの挿入口でCFexpress type AとSDに対応します．カードスロットの左側に青色のLEDランプがついていて，接続すると自動で点灯します．G1にもついていますが非常に便利です．一方転送側にはUSB-Cコネクタが使われています．規格は公式によるとUSB 3.1 Gen 2とのこと．
-
-{% include gallery caption="左：カード挿入面．CFexpressA/SDの口がある．右：USB-Cスロット．" %}
-
-裏面に小さなゴム足があしらわれているのはgoodポイント．これはG1にはない特徴です．本体の重さと相まって置いた時の安定感は抜群です．
-
-{% include figure image_path="https://lh3.googleusercontent.com/pw/AL9nZEUX7jbONPnmfMN0Bsu2T_7H1HwdSJ9WwPt2rgXx6m5SAz6u5o1u_VcxgQTx_fQ07zYgP8UGvVxoflCquaBNs5T3yPGyA4pwRs0WCpCvWOZQeife6rjQ4MbMQnQtL-es3O_b1HcBFcISG8tBEMzVwDtI=w800-h533-no?authuser=0" caption="左がG1，右が今回購入のG2" %}
-
-デスクにおいてもそこまで場所を取らずに良い感じ．もちろんSDカードリーダーに比べれば大きいですが許容範囲かなと思います．
-
-{% include figure image_path="https://lh3.googleusercontent.com/pw/AL9nZEUTCGRmUUsZzVPSTwJ4ILuITtPrg7DJKQr83JovdC5Y0N3DhOC-ca8uBkA1uQv-pBl9DrbwhALbyK3HNa3e8vncdXFrY54DBrXJMddjp4i8NwWK7hgbjFtpvxFkqXfiZiM3QMjGIm56K4YwZj_GoV30=w800-h533-no?authuser=0" caption="左が今回購入のG2，右がG1" %}
-
-{% include figure image_path="https://lh3.googleusercontent.com/pw/AL9nZEVwaLGX1bY9HxVJDVyUq_8nbi1Xv8PgQO7yScdvjDZwyL8D7_N0N_ZtrRye20IQjGr8fMPI88g9o9ca-bNTm1l8M4tUBBrEOSsTKiwDxHREvq5G350yG7XXLeA2e02gdfXrpZJJVVvKtp5CenS1TDt6=w800-h533-no?authuser=0" caption="PCとの接続時は青色に点灯" %}
-
-ケーブルはちょっと固くて取り回しが悪いように思います．長さは好みの問題ですが私はもう少し長い方が使いやすかったかなぁとは思いますが，まあUSB-CとUSB-A用の2本ついてくるのであまり贅沢は言えません．
-
-{% include figure image_path="https://lh3.googleusercontent.com/pw/AL9nZEV5VefzZ_P-F5Warmp8jT--W1qpJmU-_W9L9_8vRoLRVE7dWU6Mm_3PiHnYrbEtNhMWG2SkUQSIpbmcPwWttNSEdoK1DhlQSI861ZNQ9GoOtXtOVzxf4xak8mn-Yj_L0m2m3q6DQFfuy_q85Zdw_C41=w800-h533-no?authuser=0" caption="USB-C/USB-Cケーブル" %}
+- 炭酸カリウムは強アルカリなので扱いには十分注意する
+- 炭酸カリウムは潮解性があるので保存するときは密閉保存
+- 添加する時はかならず少量から試して徐々に増やす．いきなり多量に入れるとコケの原因になる．
+- 中和しないで使う場合，液肥自体が魚や草に直接かからないように注意する
 
 
-## 速度測定
-
-一応速度の測定を行いました．imacのUSB-Cポートを利用して，カードにProGrade Digital cobalt 160GBを使い，速度の測定はblackmagic desktop speedで実施しました．速度は読み書きともにすばらしいですねぇ．実際ここ1ヶ月くらいつかってみてとても快適です．
-
-{% include figure image_path="https://lh3.googleusercontent.com/pw/AL9nZEXwgr-hfyGJiq-OhiCFpNAe-rwlxPbD5JgTl-mmAGUaM_YvhURHc0WjCLzOxmPhsGdQUH3QPwH7ztdvS2SbOtvXllRvyTk3wis7Hao-UhBCBFT1WVycdT5LbDLmzWOyEzMuG_rCUI8cWWep5BVx1RHz=w1368-h1414-no?authuser=0" caption="" %}
-
-ちなみにですが，G1にくらべて発熱も少ないように思います．筐体のおかげなのかそれともCFexpress type AとBの違いなのかわかりませんが，いまのところ触ってもほんのりあたたかいくらいです．使い勝手の面でもSDカードも読めるというのが想像以上に便利なので，SDカードも使うという人にはおすすめです．
-
-以上MRW-G2の紹介でした．
