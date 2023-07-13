@@ -75,9 +75,11 @@ search: false
   float: left;    
 }
 
+// recent postのfont size ?
+// オリジナルは $type-size-6だった．
 .archive__item-excerpt {
   margin-top: 0;
-  font-size: $type-size-6;
+  font-size: $type-size-10;
 
   & + p {
     text-indent: 0;
