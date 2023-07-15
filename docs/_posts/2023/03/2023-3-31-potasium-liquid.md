@@ -106,6 +106,8 @@ x*78/138/(500+x) = 0.03
 
 これらの症状がでたらカリウムの添加をとめ，水換えしてリバランスするようにします．
 
+{% include figure image_path="https://lh3.googleusercontent.com/pw/AIL4fc80lhREvGGMgi4Q5atBxgpcpavechcoxlw8cFpNsY4YNKZCqlsiOY71Cg5f0E_OTXoegtIqra69JwedPj1khbWytpvATzR5G69cUGC4Era8_nN_KWw" caption="マグネシウム不足で黄化したブセファランドラsp. ブラウニーゴースト カプアスフル" %}
+
 どれくらい添加するとこれらの症状が出るかというのは難しいところですが，一般論としてはGH（CaとMgイオンの総量）が低い方が過剰になりやすいので，自身の水槽のGHを把握して調整する必要があります．私の場合別途Mgも液肥として添加していて
 
 

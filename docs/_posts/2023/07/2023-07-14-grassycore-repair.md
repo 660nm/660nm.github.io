@@ -39,9 +39,3 @@ description: >-
 
 帰って来たGrassyCoreは無事アプリから認識される状態に直っていました．よかった．．．今回は最初にメールを送ってから帰ってくるまで1週間かからないスピード対応で助かりました．
 
-
-
-
-
-{% include figure image_path="https://lh3.googleusercontent.com/pw/AIL4fc_cS38ChJSnHWyAnsVOY-f-E1WIagLM0JYi2JNUruz9YcBAULvethFq4aLp4ZOFAC3-jIvqrY21isRezvYS63s-d8HqnJssMWLBYe5cBovkuCqV158=w2400" alt="this is a placeholder image" caption=""%}
-
