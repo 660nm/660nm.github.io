@@ -1,6 +1,6 @@
 ---
 title:  "水槽管理の自動化について（１）： 自動給水 ZOOX intelligent ATO"
-date:   2023-7-17 21:00:00 +0900
+date:   2023-7-30 21:00:00 +0900
 categories: 
  - utility
 tags:
