@@ -7,7 +7,7 @@ tags:
  - volxjapan
  - grassycore
 header:
-  teaser: ""
+  teaser: "https://lh3.googleusercontent.com/pw/AIL4fc_8VLiq7qCPpOkUOvghx7Hq5ec_c_29WueyuGUmpT4vOO0NBEYMnM9YaEEOs9OLSTHh_gInXLfTTsFDSgSPfwbTecKB66wCyLocgf9pV-asWY76AcQ"
 description: >-
   愛用していたLED照明GrassyCoreが壊れたので修理に出した記録．
 ---
@@ -15,6 +15,8 @@ description: >-
 我が家の水槽の照明は大体ボルクスジャパン製のLEDです．その中で最も高出力なのがシステムLEDのGrassyCoreで，発売以降何台か購入して一番お世話になっています．この照明はスマホアプリから点灯時間や強度，色温度などを細かく調整できるのが売りなのですが，逆にいうとスマホアプリを使わないと全く使えないというのが大きな問題です．同社のGrassyLeDioはスマホアプリを使わない場合は常時100%点灯で利用できますが，本機種はスマホアプリを使わないと全く点灯できません．（将来的にサポートが終了した時のことを考えるとちょっと問題ある仕様だと思いますが．．．）
 
 7月に入って，利用しているGrassyCoreの一台にこのスマホの接続周りの不具合が出たのでボルクスジャパンさんに修理をお願いしたので記録を残しておきます．1月にNikonのZ6が壊れたのといい，今年は高額製品の故障が多くて困ります．
+
+{% include figure image_path="https://lh3.googleusercontent.com/pw/AIL4fc_8VLiq7qCPpOkUOvghx7Hq5ec_c_29WueyuGUmpT4vOO0NBEYMnM9YaEEOs9OLSTHh_gInXLfTTsFDSgSPfwbTecKB66wCyLocgf9pV-asWY76AcQ" alt="this is a placeholder image" caption="ボルクスジャパン グラッシーコア"%}
 
 照明はないと困る水草水槽の必需品なので，とても迅速に対応していただいて助かりました．
 
