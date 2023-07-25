@@ -41,3 +41,4 @@ description: >-
 
 帰って来たGrassyCoreは無事アプリから認識される状態に直っていました．よかった．．．今回は最初にメールを送ってから帰ってくるまで1週間かからないスピード対応で助かりました．
 
+{% include figure image_path="https://lh3.googleusercontent.com/pw/AIL4fc8wd9_b5ZZ4EmDr5Jwz63h8etJ2SvjllzV0mfUjQ0MGO16gX5bMndGOD9EotBDDofxnII5rWe_kBCH06WSr0ETuYSti9s7qfZBhZcYr2lwk6WrgW2A" alt="this is a placeholder image" caption="無事4灯に復帰しました．"%}
