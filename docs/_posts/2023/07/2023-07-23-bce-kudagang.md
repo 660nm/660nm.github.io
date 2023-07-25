@@ -6,7 +6,7 @@ categories:
 tags:
  - Bcephalandra
 header:
-  teaser: "https://lh3.googleusercontent.com/a6RP6zpXPb2LtWuuJlbULj_gI4FTbKQfGV4dNfFMWDJovLy_VDSQyHb3ZXQel_VvE644jZDR4EIQt8dXP4il6DMgz1f8zAPew0cPgKaf6RLy6benKIVVw_Awq6mmV5m0iaLwsCKl=s0"
+  teaser: "https://lh3.googleusercontent.com/pw/AIL4fc_hRy_N8_pSLR9tBPl4nOP2kVRDiuGIk7oQa0Z3cWi-PMWJxQQvSf_D_XSeliYj6R2S6rXcvayusZWvXoTOUDx573J-CqytwHOtsVfPlxnE3FFfong"
 description: >-
  昨年の90センチ水槽で頑張って増やしていたブセファランドラspクダガンは夏場の高温と私のメンテナンス不足で一時壊滅的な被害を受けていましたが，そこから1年かけてなんとか持ち直してきたので紹介します．
 ---

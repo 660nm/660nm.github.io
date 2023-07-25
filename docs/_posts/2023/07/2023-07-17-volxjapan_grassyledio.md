@@ -7,7 +7,7 @@ tags:
  - volxjapan
  - grassyledio
 header:
-  teaser: ""
+  teaser: "https://lh3.googleusercontent.com/pw/AIL4fc9afuozmrnoqb2hM_HTyWkDA_Ahce_N0TRddkJ9Ee8AsiUdUyBhSdMBGYN9Xiyi-LRbwAK41M4TncW-roW1uMotNOAcVSViXmVjR0m63qDeuQTIJf0"
 description: >-
   ボルクスジャパンのスポットライトLED，GrassyLeDioシリーズについて水草水槽目線でのまとめ．
 ---
