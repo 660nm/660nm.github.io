@@ -18,6 +18,8 @@ description: >-
 
 GrassyLeDioシリーズはボルクスジャパンが長く発売しているスポットLED照明で，もとは海水水槽用の照明（サンゴ用）として発売されていたものです．よくあるフラット形状のLEDとはことなり，E26口金にセットして使います．照射範囲が非常に限られている代わりに遠くまで強い光を届けることができるのが特徴で，これによって深い水槽でも水槽の底でも光があまり減衰せずサンゴや水草をよく育てられます．大体1灯だと30センチキューブくらいが照らせる範囲ですね．
 
+{% include figure image_path="https://lh3.googleusercontent.com/pw/AIL4fc9afuozmrnoqb2hM_HTyWkDA_Ahce_N0TRddkJ9Ee8AsiUdUyBhSdMBGYN9Xiyi-LRbwAK41M4TncW-roW1uMotNOAcVSViXmVjR0m63qDeuQTIJf0" alt="" caption=""%}
+
 {% include figure image_path="https://lh3.googleusercontent.com/pw/AIL4fc-KiBRbulKBzQtyPK40xaCS-KixHD198dQJ7GroKC5jCuu9ffLlHSGoyjGm8aNmoMRnwKybcdp0685SbJovhY_FAT4X0IfkernSFxxfn5YRXi-lX3s" alt="" caption=""%}
 
 使っているLED素子がいわゆる高出力LEDなのが最大の売りで，UVを含むスペクトルにも拘っています．これらの要素は特にサンゴ飼育では重要みたいですね．水草は普通の白色LEDでも育ってしまうのであまり恩恵がないように思いますが，今までの経験上はやはり成長速度や発色はGrassyLeDioの方が勝る印象です．あと演色性が良いので鑑賞面でも自然な色で楽しめます．
@@ -70,6 +72,9 @@ RX072e/RX121sは筐体がより小型で出力が小さいので小さい水槽�
 素子構成は機種ごとに素子が変わっているはずなので参考程度にしてください．RX121sとRX201については公式で特に素子構成について触れられていません．公式の分光スペクトルを見る限りRX121sはRX122sとほぼ同様の構成のはずです．まさにミニRX122sといった感じでかなり使いやすそうです．RX201 freshは青がかなり強く，よくある水草用LED照明に近いスペクトルになっています．RX201 sunはかなり太陽光スペクトルに近くなってり，またどうやら赤外のLEDも使っているようで，公式でも謳われている通りどちらかというと観葉植物に良さそうですね．
 
 いずれも演色性の高さとPPFDの高さが際立っています．水草は通常50-150程度でロタラもよく育つのでこれを直接あてたら強すぎます（笑． 実際は照明を高いところから吊るして使うのでここまで強度が出ることはありませんが性能面では十分と言えるでしょう．
+
+{% include figure image_path="https://lh3.googleusercontent.com/pw/AIL4fc-R4gGiWshnmUVwjjnH4gs2keYxWpoeJ1uUCyN5dVkgf_617iXKuxohzBCC4eK6TYyF7p68jOgko8w3UfqfnLfrknoC6n3rQUJvPIE_DVS_SuBns7I" alt="" caption="パッケージにのっているスペクトルなど．幅広い波長をよく含んでいます．"%}
+
 
 私の所持しているRX122と新しいRX122sの比較では，光の強さは簡易照度比で約1.2倍になっていて，さらに調光も2chになっているので値段がほぼ同じなら素直に新しい方を買った方がよさそうですね．色温度も9000Kと8000Kでそこまで違わないので混ぜて使っても問題なさそうです．
 
