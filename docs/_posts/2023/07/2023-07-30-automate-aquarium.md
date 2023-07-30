@@ -30,7 +30,7 @@ PS：と記事を書いている間にドーシングポンプの方は故障し
 
 本商品は高いだけあっていくつかの便利機能が備わっています．先にそれを紹介しておきます．
 
-{% include figure image_path="https://lh3.googleusercontent.com/pw/AIL4fc-7xXC9vOWrmRLhdbzzspTJ-dPYyAHmVV8m32g1SNFcKrn_CTPUpmwNHqO6YkSQy8JQqYLg7tmQGMee94JO29WKAFJ2Fo670dzxNt3LKujNPRipi8rQ" alt="this is a placeholder image" caption=""%}
+{% include figure image_path="https://lh3.googleusercontent.com/pw/AIL4fc8wsHp2t-iBK4KVtIqlalvnJcwZILJ-SMhzSPMfhJ1yhi1fp0xZotSFZXrTPKgLoQQv_dtmAPpvXoNxqOiilYHNyiufpal0AsmrxzysWcDet1B-_Jk" alt="this is a placeholder image" caption=""%}
 
 - 高性能ツイン精密光学センサー
 - インジケーターランプによる簡単な動作確認
