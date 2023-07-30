@@ -4,8 +4,9 @@ date:   2023-7-29 21:00:00 +0900
 categories: 
  - utility
 tags:
- - volxjapan
- - grassycore
+ - ehiem
+ - 2275
+ - 2217
 gallery:
   - image_path: https://lh3.googleusercontent.com/pw/AIL4fc9Re57hD-EJexYKkWSQvtbvHLsldQyLA4D4xMk9orVNY2gqjbncLla_53ntQy2JQwS0efs6QRp2EyF3uhjQdqnQjvnY3Csfc5Y7wy2O3sBcahowtdI
     alt: "placeholder image 1"
@@ -14,7 +15,7 @@ gallery:
     alt: "placeholder image 2"
     title: "ホース締めが4つ付いてきます"
 header:
-  teaser: "https://lh3.googleusercontent.com/pw/AIL4fc9xNK6hCeYFAucp6kTCXt6IL1spEkFhS57db7u7SzkWhjJYnL6o3CU-O2qbnMZkFKBCXnMdI9pNEj4RN3g2J2ttMQZ3C48febaWUy5JByKqlSM5Chw=w2400"
+  teaser: ""
 description: >-
   エーハイム2275の調子がここのところよくなく，昨年購入した2217を代わりに導入します．
 ---
@@ -40,11 +41,11 @@ description: >-
 
 16/22側のホースには今回初採用のシリコンホースを使います．いつかチャームで買っていたZooxのハイエンドブラックシリコンホースというもので，黒ホースなのは不満ですが品質は良さそう．さすがにシリコンホースは取り回しの良さが全然違いますね．12/16径は通常ホースでも十分取り回しやすいですが，16/22は硬いものが多いのでシリコンホースを使う方が良いかなと感じました．問題は値段が少し高いことですが半永久的に使えることを考えると投資する価値はあるかなと．
 
-{% include gallery caption="2mの16/22ホース．他に12/17と19/25のラインナップもあるようです．" %}
+{% include gallery caption="2mの16/22ホース．他に12/17と19/25のラインナップもあるようです．右図のようにホースを締めるやつが4つ付いてきます．" %}
 
 16/22側にCO2マスターもつないで設置は完了．2217は2275と違ってケースの下からホースが出るのでCO2マスターの設置に余裕があるということに気づきました．これは良いですね．2217の出水側→CO2マスター→ダブルタップ→シリコンホースという順番で接続しました．
 
-{% include figure image_path="" caption=""%}
+{% include figure image_path="https://lh3.googleusercontent.com/pw/AIL4fc9wNIlZKk6APSLibtQj2ioQtlAmfAmWQd1c1Jb9AjF3D44XS7aKzIUktUkqNhpl2cmrs-4nSUvVMByMIcStG-3Sgp8NLKrVYxhvnGsR9yBrQyTLOWc" caption=""%}
 
 ## 水流について
 
@@ -70,8 +71,9 @@ description: >-
 - ろ材と水を入れた時の重さも2217の方が軽い．
 - 2275はプレフィルターがあってメンテナンス頻度を下げられる．
 - 2275は1.5L*4段のろ材コンテナがある．
+- 2217のグレーカラーは透明度が高く，ろ材の状態を確認しやすい．
 
 今回設置してみて予想以上に2217がコンパクトで取り回しが良いと感じました．あとはメンテナンスのしやすさ次第ですが，思っていたより好感触です．また追って使い勝手を見ていこうと思います．
 
-{% include figure image_path="" caption=""%}
+{% include figure image_path="https://lh3.googleusercontent.com/pw/AIL4fc8mOimLCDYikRWlwpx_vJe2dxXxIehZ2vBzKYelMw4uBTnOAhXpbBn05d0vUhWD6OetBpKSY6l8vlwX50CPiBPfmUYaKHgwDCNaTxdVrAeJgSc-M68" caption="左の2275と右の2217．"%}
 
