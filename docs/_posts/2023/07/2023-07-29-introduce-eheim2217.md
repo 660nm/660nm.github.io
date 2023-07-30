@@ -15,7 +15,7 @@ gallery:
     alt: "placeholder image 2"
     title: "ホース締めが4つ付いてきます"
 header:
-  teaser: ""
+  teaser: "https://lh3.googleusercontent.com/pw/AIL4fc8mOimLCDYikRWlwpx_vJe2dxXxIehZ2vBzKYelMw4uBTnOAhXpbBn05d0vUhWD6OetBpKSY6l8vlwX50CPiBPfmUYaKHgwDCNaTxdVrAeJgSc-M68"
 description: >-
   エーハイム2275の調子がここのところよくなく，昨年購入した2217を代わりに導入します．
 ---
