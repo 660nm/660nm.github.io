@@ -47,9 +47,13 @@ description: >-
 
 {% include figure image_path="https://lh3.googleusercontent.com/pw/AIL4fc9wNIlZKk6APSLibtQj2ioQtlAmfAmWQd1c1Jb9AjF3D44XS7aKzIUktUkqNhpl2cmrs-4nSUvVMByMIcStG-3Sgp8NLKrVYxhvnGsR9yBrQyTLOWc" caption=""%}
 
+問題の2275はエア噛みが酷くてCO2添加量を落としていたので，これでまた気兼ねなくガンガンCO2を入れられます．ブセがよく育ちますように．
+
 ## 水流について
 
 2217は出水側が12/16なのでだいぶ水流が強いのではないかと懸念していましたが，思ったほど強くなくて安心しました．90や120の水草水槽で使うなら問題ないかと思います．60ワイドだとちょっと強すぎるかなという感覚です．当然16/22の2275の方がだいぶ水流は弱いので購入検討時にはよく考えた方がよいかも．個人的にはマイルドな2275の水流の方が好みです．
+
+PS：数日運用してみてブラックネオンテトラが2217の出水付近で泳いで遊ぶ様になりました．
 
 
 ## 2217と2275の比較
