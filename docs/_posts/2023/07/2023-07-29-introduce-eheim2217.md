@@ -5,8 +5,8 @@ categories:
  - utility
 tags:
  - ehiem
- - 2275
- - 2217
+ - professional2275
+ - classic2217
 gallery:
   - image_path: https://lh3.googleusercontent.com/pw/AIL4fc9Re57hD-EJexYKkWSQvtbvHLsldQyLA4D4xMk9orVNY2gqjbncLla_53ntQy2JQwS0efs6QRp2EyF3uhjQdqnQjvnY3Csfc5Y7wy2O3sBcahowtdI
     alt: "placeholder image 1"
