@@ -81,7 +81,7 @@ ATOセンサーは超小型で，3cm程度しかありません．水槽に入�
 
 水槽への固定はマグネットでできます．マグネットはかなり強力で半年感使ってきた感想としては快適そのもの．
 
-{% include figure image_path="https://lh3.googleusercontent.com/pw/AIL4fc9Gh5jWMf--qDzgs1fPDWWkfVX4aLnTPWL2qNn5yxPLtJoGZ_uD4EmA9ry_y0O67em9xuBn4sjy1AjGGbyynavwAe7RAuKFlSfJczUmGNECm5ndSk0" alt="this is a placeholder image" caption=""%}
+{% include figure image_path="https://lh3.googleusercontent.com/pw/AIL4fc9Gh5jWMf--qDzgs1fPDWWkfVX4aLnTPWL2qNn5yxPLtJoGZ_uD4EmA9ry_y0O67em9xuBn4sjy1AjGGbyynavwAe7RAuKFlSfJczUmGNECm5ndSk0" alt="this is a placeholder image" caption="左側がセンサー本体(水槽に入る方)．保護部品がついてセンサーが露出していないのがわかると思います．右側が固定用マグネット．"%}
 
 {% include figure image_path="https://lh3.googleusercontent.com/pw/AIL4fc-LF3eIAAf5hCkbZNezdl0RDetlAd9H7HFbCM0QepNyAtECyKrAzELSstPyJ51xl13OmaYhCI8x7jHnmOjy3vnq_SjMlnQgegv-Sd8ZQ1TvURZNnNU" alt="this is a placeholder image" caption="マグネット部も大きくないのであまり目立ちません．"%}
 
