@@ -26,7 +26,7 @@ description: >-
 
 溶けるリスクを考慮して2つ購入しました．いつものトロピカらしく非常にボリューミーで高品質な組織培養カップです．これでちゃんと全部育ってくれれば値段分はペイしてくれると思いますがさて．．．
 
-{% include figure image_path="https://lh3.googleusercontent.com/pw/AIL4fc9P_lKxQ79RvkmuAqjy8wM6K6k9atJLGdJI_abglFUU7cA8wo5cIW9tx-dStEQuR61GNkPDIzxquE53DiDzZcBUwPWJS9K1IhIB7R9KGaYRSs-hWXk" alt="this is a placeholder image" caption=""%}
+{% include figure image_path="https://lh3.googleusercontent.com/pw/AIL4fc9P_lKxQ79RvkmuAqjy8wM6K6k9atJLGdJI_abglFUU7cA8wo5cIW9tx-dStEQuR61GNkPDIzxquE53DiDzZcBUwPWJS9K1IhIB7R9KGaYRSs-hWXk" alt="this is a placeholder image" caption="培地は液体でした．これは処理が楽でGood."%}
 
 
 {% include figure image_path="https://lh3.googleusercontent.com/pw/AIL4fc-sTfcMnTgcuPewa9s7491RU_zF4ZL0kGgn8R_S0wFekyCmzls7EZ4nT1Ujn2sLJOdXwZvzNNrVZ9cUSVLNRGu6IK_LHU2L_O_pKHRIZ76QIKZnZwI" alt="this is a placeholder image" caption=""%}
