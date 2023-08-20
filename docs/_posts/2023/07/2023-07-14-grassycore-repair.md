@@ -42,3 +42,14 @@ description: >-
 帰って来たGrassyCoreは無事アプリから認識される状態に直っていました．よかった．．．今回は最初にメールを送ってから帰ってくるまで1週間かからないスピード対応で助かりました．
 
 {% include figure image_path="https://lh3.googleusercontent.com/pw/AIL4fc8wd9_b5ZZ4EmDr5Jwz63h8etJ2SvjllzV0mfUjQ0MGO16gX5bMndGOD9EotBDDofxnII5rWe_kBCH06WSr0ETuYSti9s7qfZBhZcYr2lwk6WrgW2A" alt="this is a placeholder image" caption="無事4灯に復帰しました．"%}
+
+まだまだ5年くらいはメインの照明として頑張ってもらいたいと思います．
+
+
+## 追記：2023/08/20
+
+帰ってきてから1ヶ月程度たちました．今のところ帰ってきた個体の調子はすこぶる良いのですが，一つ気づいたことがあるので追記しておきます．どうもGrassy Coreは個体によって内部の時間（？）が微妙に違うのか，アプリから全く同じように出力制御しても消灯する時間が微妙に異なるようです．
+
+下の写真は消灯時刻15:00直前（14:55ごろ）の4つのGrassy Coreの様子ですが，修理から帰ってきた右奥のGrassy Coreはすでに消灯しており，一方で左奥の個体は手前側の個体よりまだ強度が強い，つまり消灯時間が15:00より数分遅いんですよね〜 スマホの時計と一致しているのが手前の２つの個体でした．細かい点ですが一応事例の紹介ということで載せておきます．
+
+{% include figure image_path="https://lh3.googleusercontent.com/pw/AIL4fc8pWsf0cdV_8b5vfyosYv08CpaoNBPaVin4fcR8-1GQKg5eel95ILqxmX3OwbBNZzLCDJpasoCFmCO_xTivt_teYxftp4voli4weRu5J7ToaSH-T4U" alt="" caption="4灯使わないと気づかないようなことだったので報告．"%}

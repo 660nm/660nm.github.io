@@ -6,7 +6,7 @@ categories:
 tags:
  - 自作
 header:
-  teaser: ""
+  teaser: "https://lh3.googleusercontent.com/pw/AIL4fc8mFSeh7LPcB9gP72D6vzwtWeM-yeF5Af-Mlv1b6tDGgkpdyM8LdzWPh2SKVUYQ6Vj8zQKaBwjF4ZbDG3fsVCkwbdCx88BKLgKX9f2XihzzQONlWW8"
 description: >-
   炭酸カリウムを使ってカリウム液肥を自作する方法について．
 ---
@@ -38,7 +38,7 @@ description: >-
 
 といったあたりが挙げられるかとおもいますが，最も一般的に用いられているのは炭酸カリウム（K2CO3）です．炭酸カリウムは白色結晶で水によく溶け，入手性も悪くないからでしょう．一方で，炭酸塩なので硬度をあげる，pHが高いという欠点もあります．とはいえ，pHが高い点については中和すれば問題ありませんし，硬度も一般的な水草ならそこまで気にしなくて大丈夫です．今回はこの炭酸カリウムをつかった方法をとりあげます．
 
-{% include figure image_path="" caption="" %}
+{% include figure image_path="https://lh3.googleusercontent.com/pw/AIL4fc8mFSeh7LPcB9gP72D6vzwtWeM-yeF5Af-Mlv1b6tDGgkpdyM8LdzWPh2SKVUYQ6Vj8zQKaBwjF4ZbDG3fsVCkwbdCx88BKLgKX9f2XihzzQONlWW8" caption="amazonとかで簡単に手に入ります" %}
 
 こうしたデメリットを避けたい場合，他の候補として硫酸カリウムも挙げられます．硫酸カリウムは炭酸カリウムほど入手性が良くありませんが農業などで肥料としてよく使われる物質で，これを2回目の記事で取り上げる予定です．
 
@@ -76,6 +76,8 @@ x*78/138/(500+x) = 0.03
 - 炭酸カリウム28gを容器に入れる．
  
 となります．炭酸カリウムが水に溶ける反応は発熱反応で結構熱くなります．上の計算は純度100%で計算しています．購入時には純度を念のため確認してください．
+
+{% include figure image_path="https://lh3.googleusercontent.com/pw/AIL4fc9CPg9Mk3JGu1aj13UOSn7EUX0yd6CEWKs0FadugF5cnO4ItVTZng2RTLVyaDDF8bjkj1M4FyZjnpfm-wf4Fx24_b4ns9QYW09nYzVW0hOF0hM7AP0" caption="1Lなら56gで作ればOK．500gのパックで9L作れる計算ですので使い切るのが大変です．" %}
 
 炭酸カリウムは強酸ゆえこのままだとpHが高くなってしまうので，私は中和して使うようにしています．中和するメリットは水槽に優しいことはもちろん，万が一液体が漏れた時に人体に害がないようにという意味もあります．酸性液体としてはここにクエン酸が入手性や安全性から優れているでしょうか．クエン酸をつかう場合の中和反応はクエン酸カリウムを発生させる以下のような反応です．
 
@@ -117,6 +119,7 @@ x*78/138/(500+x) = 0.03
 
 - 炭酸カリウムは強アルカリなので扱いには十分注意する
 - 炭酸カリウムは潮解性があるので保存するときは密閉保存
+- 普通の白色結晶なので知らない人が間違って触らないような注意が必要
 - 添加する時はかならず少量から試して徐々に増やす．いきなり多量に入れるとコケの原因になる．
 - 中和しないで使う場合，液肥自体が魚や草に直接かからないように注意する
 - カリウム過剰，特にMgやCaの欠乏症状が見られた場合，GH,KHの測定を行うとトラブルシューティングに役立つ．
