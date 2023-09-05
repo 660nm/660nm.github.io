@@ -4,7 +4,8 @@ date:   2023-8-25 21:00:00 +0900
 categories: 
  - waterplant
 tags:
- - bucephalandra
+ - anubius
+ - 
 header:
   teaser: "https://lh3.googleusercontent.com/pw/AIL4fc9dM71d2XY5Fm_aLS0zB5jzdiSLV1Bu1xEwdXdyRtgqSZRu-07o9UGOCCiFplaa-Zz14tocy6bbx8k1QgfgiVUgCI93JVRkpDyvOCDRAcy9SqpZax8BElMRh82VpU1Xqz7xDKS3gHEWeC2hiC1hjOPC=w800-h532-s-no?authuser=0"
 description: >-
