@@ -6,9 +6,8 @@ categories:
 tags:
  - Bcephalandra
 header:
-  teaser: "https://lh3.googleusercontent.com/pw/AIL4fc_hRy_N8_pSLR9tBPl4nOP2kVRDiuGIk7oQa0Z3cWi-PMWJxQQvSf_D_XSeliYj6R2S6rXcvayusZWvXoTOUDx573J-CqytwHOtsVfPlxnE3FFfong"
-description: >-
- 
+  teaser: "https://lh3.googleusercontent.com/pw/ABLVV84DQ7A2ImlF68gUTsSZxGlqRpkPyRi-gTgI5LNvTi8hdTNDb3bSdczrWqQdjJtcqGh8ZyrjPJygr445T0gBHgLJAOHjO6JB1kKm-7pdwNYEJFtr-EkzfDSTh0znd36fRd1v2XbYqphQsFD6OfCepBdk=w800-h532-s-no-gm?authuser=0"
+description: 以前購入したカミハタ便のブセファランドラのひとつ，sp ダークベルベットの紹介．
 ---
 
 数ヶ月前に購入したブセファランドラsp ダークベルベット（カミハタ）の紹介．
@@ -30,3 +29,5 @@ description: >-
 {% include figure image_path="https://lh3.googleusercontent.com/pw/ABLVV87C3xstJC8svk7VPyVuHfcHwQX3ZMd-mQBJy-GV5AejmPSswkFey_ZJsM6Nn4sszVsO_YJHKWmKm4iXJqjhFjdgNLBk9uUI1y1ef3i0yfUQscapPAdrEZ2Y_1VE0vfOMqT2p0L6HTdjFUy8Sb_AW0id=w800-h532-s-no-gm?authuser=0" alt="this is a placeholder image" caption=""%}
 
 以上ダークベルベットの簡単な紹介でした．このあと株分けをしたので数ヶ月でまた増えてくれると良いのですが．
+
+{% include figure image_path="https://lh3.googleusercontent.com/pw/ABLVV84DQ7A2ImlF68gUTsSZxGlqRpkPyRi-gTgI5LNvTi8hdTNDb3bSdczrWqQdjJtcqGh8ZyrjPJygr445T0gBHgLJAOHjO6JB1kKm-7pdwNYEJFtr-EkzfDSTh0znd36fRd1v2XbYqphQsFD6OfCepBdk=w800-h532-s-no-gm?authuser=0" alt="this is a placeholder image" caption=""%}
