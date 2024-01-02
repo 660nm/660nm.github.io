@@ -7,7 +7,7 @@ tags:
  - Bcephalandra
 header:
   teaser: "https://lh3.googleusercontent.com/pw/AIL4fc_hRy_N8_pSLR9tBPl4nOP2kVRDiuGIk7oQa0Z3cWi-PMWJxQQvSf_D_XSeliYj6R2S6rXcvayusZWvXoTOUDx573J-CqytwHOtsVfPlxnE3FFfong"
-description: >-
+description: 新しいブセファランドラとして，オリエンタルの組織培養，sp ブラウニー Ghostを購入していて，約3ヶ月たったので購入時と現在の様子を紹介します．
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: https://lh3.googleusercontent.com/pw/ABLVV87uQGDVYQRIGOqHRql1IN8DnArCKnlU3T-ZhJzUrKOPze52YT3upwb9s5hnRwfyaj6WUCbrd9-LyZujKKlUt8-ucA1if5JMl05EkzVa1fzZv09nmcSg7PcoPUDICmKBeP9kgiZsSK9jTNxZo1HNGLm6=w800-h532-s-no-gm?authuser=0
@@ -46,6 +46,11 @@ gallery:
 水中で育った感じは想像以上にトロピカのspレッドに似ていて，これだったらわざわざ買わなくても良かったかな．．． と半分後悔（笑 オリエンタルの水草の情報は調べてもあんまり出てこなかったのでまあこういうこともありますね．家の環境だとspレッドはかなりよく繁茂する（なぜか相性が良い？）ので，本種もその傾向があるのかもしれません．ただ，深緑の葉っぱに赤い茎という組み合わせはやはり綺麗です．
 
 {% include gallery id="gallery" caption="左がオリエンタルのブラウニーGhost，右がトロピカのspレッドですが，正直区別が付きません．" %}
+
+育っていた部分は一部株分けしておきました．購入時の写真と比べると葉っぱは完全に水中葉に切り替わってそうです．
+
+{% include figure image_path="https://lh3.googleusercontent.com/pw/ABLVV86HynJmgfBDpj6e4eH-FQxLLKfcKUq4h6qe1bWBJscj_qzWI8xIz0Nxjd5p9Wki-WISpa6xQZOR7yYpaEeLYkfcBDCpd6XbyxN6QDKm20HvavAUdypl2Ew22hf_06oF5PxFzi_2RRcK0r9f4O2AWw2D=w800-h532-s-no-gm?authuser=0" alt="this is a placeholder image" caption=""%}
+
 
 ## まとめ
 
