@@ -6,7 +6,7 @@ categories:
 tags:
  - Bcephalandra
 header:
-  teaser: "https://lh3.googleusercontent.com/pw/AIL4fc_hRy_N8_pSLR9tBPl4nOP2kVRDiuGIk7oQa0Z3cWi-PMWJxQQvSf_D_XSeliYj6R2S6rXcvayusZWvXoTOUDx573J-CqytwHOtsVfPlxnE3FFfong"
+  teaser: "https://lh3.googleusercontent.com/pw/ABLVV87_o83P5yEqonKhKh1FI9TmgVNpVgL2_gM4Ts2iSZJrUpvbrex2t3eDRd9rBQlNdO0WW25swM_0eS2Z2jjXmQQ9wcvfUQvAcEPzBoMO-Ix3q7t7AHO2q3yz6J7V2AgLH8AgYVfuuaKAJlwnnLR3YZIv=w800-h532-s-no-gm?authuser=0"
 description: 新しいブセファランドラとして，オリエンタルの組織培養，sp ブラウニー Ghostを購入していて，約3ヶ月たったので購入時と現在の様子を紹介します．
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
