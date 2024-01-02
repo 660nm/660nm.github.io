@@ -6,8 +6,8 @@ categories:
 tags:
  - Bcephalandra
 header:
-  teaser: "https://lh3.googleusercontent.com/pw/AIL4fc_hRy_N8_pSLR9tBPl4nOP2kVRDiuGIk7oQa0Z3cWi-PMWJxQQvSf_D_XSeliYj6R2S6rXcvayusZWvXoTOUDx573J-CqytwHOtsVfPlxnE3FFfong"
-description: >-
+  teaser: "https://lh3.googleusercontent.com/pw/ABLVV87XyVG3YGmAZE_G68B8CdqOtFClsCV23lcmLP9MeC8Zd_dsw9hmdKOydkr0CYp3ncqojrM_wnZpZac2CFEaz5gMNPpFV5jw5agnuAEssY7XwjbFp7tViBX1dLqpyvH1u9TjrtWc4A7TjXTjIeT1bG-X=w800-h532-s-no-gm?authuser=0"
+description: 2023年の振り返りと2024年の目標（？）
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: https://lh3.googleusercontent.com/pw/ABLVV86qeBJa2QGqAPTKQen2YFWZrgDhJZE14aM92zvO_sUANjPPuN3SI5CQKLs0_sd9VTOaabz7H2GEETxntJsvHKPOz0tSIWieDnIX0oNp2q7YJDl-OUYz8Xj-woVz82Fr5EuboS0bLXbJ1BuAUJYYorQ-=w800-h532-s-no-gm?authuser=0
@@ -32,9 +32,9 @@ gallery:
 
 {% include figure image_path="https://lh3.googleusercontent.com/pw/ABLVV87XyVG3YGmAZE_G68B8CdqOtFClsCV23lcmLP9MeC8Zd_dsw9hmdKOydkr0CYp3ncqojrM_wnZpZac2CFEaz5gMNPpFV5jw5agnuAEssY7XwjbFp7tViBX1dLqpyvH1u9TjrtWc4A7TjXTjIeT1bG-X=w800-h532-s-no-gm?authuser=0" alt="this is a placeholder image" caption=""%}
 
-一方60cm水槽の方はロタラの管理水槽ですが，これはメンテナンスが全然出来ずに酷いことになっています（笑． 高さ36cmの水槽は水草が水面に到達するのが早く，それだけ維持の手間がかかるなという当たり前のことを再認識しました． とはいえ，維持しているのがロタラだけなので，昨年90cmで光が届かずブセファランドラがだめになるような事態は避けられています．水草ストックとしての役割は十分果たしています．
+一方60cm水槽の方はロタラの管理水槽ですが，これはメンテナンスが全然出来ずに酷いことになっています（笑． 高さ36cmの水槽は水草が水面に到達するのが早く，それだけ維持の手間がかかるなという当たり前のことを再認識しました． とはいえ，維持しているのがロタラだけなので，昨年90cmで光が届かずブセファランドラがだめになるような事態は避けられています．水草ストックとしての役割は十分果たしています．これは新年一発目のメンテナンスでトリミングする予定．
 
-{% include figure image_path="" alt="" caption=""%}
+{% include figure image_path="https://lh3.googleusercontent.com/pw/ABLVV85cCsexyyrn2FGKqTkzBxxr-IXS0jdxoyO0FyeILwl68FlqdiNPBRes6-YRZeNGxuPn0n1jr3c277JVqkcModri2fO9KOBIaM4ZAKEN94jHMgi6_cbOuJ1Xf0C05RMSYaijzMWP8ZI6LoTJT6432c-t=w800-h532-s-no-gm?authuser=0" alt="" caption=""%}
 
 水槽維持の自動化というのが今年の一つのテーマでもありました．それに多大な貢献をしてくれたのが自動給水器です．これはもともとは海水水槽で使うものですが，奮発して120cm水槽のために購入してみたところ，水位を自動で維持してくれるのが想像以上に良かったです．特に水槽の上の方まで水草があると，水位が下がって来たときに問題になります．これは皆さんにもおすすめしたいアイテムです．
 
