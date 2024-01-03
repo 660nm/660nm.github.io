@@ -7,7 +7,7 @@ tags:
  - Bcephalandra
 header:
   teaser: "https://lh3.googleusercontent.com/pw/ABLVV84h0MKOabwsWgWLi4pwuQbLuBEP-ATalRbpGl1g8MlZ-41tXaGP1ukcVjKH1rEEq7fkmeWjG7-XXzm74HZgVmdl1BpyiPYaTD-MF1TcOSOxuFPB9gWfN621CDlne8jrog5qJ8aBW_4zuH3EISLF4oBH=w800-h532-s-no-gm?authuser=0"
-description: 2023年の振り返りと2024年の目標（？）
+description: リーズロックを使って吊り下げ照明のワイヤー長さを微調節する方法
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: https://lh3.googleusercontent.com/pw/ABLVV84Zn55c-38ID520XCkeX8enWq-qBbBOm4PluovtHxKV_E0KI3z0uiaNMh_-7U8K-bui3k6MCrJlqdNaQJgeWM9lZvUn8ClrVmsX0Koq9VhnHuuH9WYgTPCw3BisROestevdazno0rTgCywjQ7GTygcS=w800-h532-s-no-gm?authuser=0
