@@ -1,6 +1,6 @@
 ---
 title:  "Grassy Coreのワイヤーにリーズロックを利用する"
-date:   2023-12-30 21:00:00 +0900
+date:   2024-1-2 21:00:00 +0900
 categories: 
  - waterplant
 tags:
@@ -32,7 +32,7 @@ gallery2:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: 
+    image_path: https://lh3.googleusercontent.com/pw/ABLVV84Bn28pCa3b4QHDPRtL384A6KYVYzVYGxhl91pyyhPs-VE5aClMpsBSmHD1HfJfhbFnM2oyr6qMKA0v7jXJwqEmLeT36h1I2PJx5Mp9j1ZhyNOY49y5AYc0CrSoYfXzmUi9PKO1TTSgHeH8KSDl96CQ=w800-h532-s-no-gm?authuser=0
     alt: "placeholder image 2"
     title: "Image 2 title caption"
 gallery3:
@@ -54,7 +54,6 @@ gallery3:
 今回のターゲットはボルクスジャパンのGrassy Coreです．純正の吊り下げワイヤーはネジでワイヤー長を固定するようになっており，微調整がとても面倒臭いです．
 
 {% include gallery id="gallery1" caption="" %}
-
 
 リーズロックはこのような固定方式と異なり，工具なしでワイヤー長を微調整できるアイテムです．今回はニッサチェインの1.5mm~2.0mm対応のものを利用しました．先立って1.0mm~1.5mm対応も買ってみましたがこちらはGrassy Coreのワイヤーでは太すぎて通らず．．． 後述しますが，おそらくGrassy Coreのワイヤーは1.6mm径だと思われます．
 

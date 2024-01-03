@@ -52,6 +52,9 @@ gallery:
 
 {% include figure image_path="https://lh3.googleusercontent.com/pw/ABLVV84tq5PaxHAJPJYtETk0i3ugDDeMrSGGKnXf0zBGKYTr5b6AnShOs5dT7Q8icsp0OVqtApEmYMYohVtxmlet7v_A_BEUEYXTJuNO2r9H-QSbBak4CtH5nwsGvKMDfO3XRkvr-aBuY26NZ0FMA7IHQ50G=w800-h532-s-no-gm?authuser=0" alt="this is a placeholder image" caption="トロピカのブセファランドラspニードルリーフは水上葉が絶好調です．"%}
 
+{% include figure image_path="https://lh3.googleusercontent.com/pw/ABLVV87ZHB57YEMAtaHZjdAUuCG0_E-JP9r9eUg-j1ECMdTsojXy04JfBdIN5XoDsDYfPyQtqxek8lUZakYrSa3tAoWhNfQS9Nj0ul2Qj0FItZxw2htu7BwwkHf70__POwF0XNv4t0P1GhliivBdlmiHKaM8=w800-h532-s-no-gm?authuser=0" alt="this is a placeholder image" caption="水槽奥に白く見えているのがブセの水上栽培のボトル．"%}
+
+
 目標はとりあえずは水槽の引っ越しを無事に終わらせることですね．そもそもちゃんと120,90クラスの水槽がおける家探しをしないといけませんが．．． 
 というわけで，来年も前半は更新がほぼないと思いますが，引き続き本ブログをよろしくお願いします．みなさん良いお年をお迎えください．
 
