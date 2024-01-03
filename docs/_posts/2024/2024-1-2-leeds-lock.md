@@ -6,7 +6,7 @@ categories:
 tags:
  - Bcephalandra
 header:
-  teaser: "https://lh3.googleusercontent.com/pw/ABLVV87XyVG3YGmAZE_G68B8CdqOtFClsCV23lcmLP9MeC8Zd_dsw9hmdKOydkr0CYp3ncqojrM_wnZpZac2CFEaz5gMNPpFV5jw5agnuAEssY7XwjbFp7tViBX1dLqpyvH1u9TjrtWc4A7TjXTjIeT1bG-X=w800-h532-s-no-gm?authuser=0"
+  teaser: "https://lh3.googleusercontent.com/pw/ABLVV84h0MKOabwsWgWLi4pwuQbLuBEP-ATalRbpGl1g8MlZ-41tXaGP1ukcVjKH1rEEq7fkmeWjG7-XXzm74HZgVmdl1BpyiPYaTD-MF1TcOSOxuFPB9gWfN621CDlne8jrog5qJ8aBW_4zuH3EISLF4oBH=w800-h532-s-no-gm?authuser=0"
 description: 2023年の振り返りと2024年の目標（？）
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
