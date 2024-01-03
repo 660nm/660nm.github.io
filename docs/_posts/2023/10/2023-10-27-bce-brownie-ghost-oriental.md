@@ -37,9 +37,13 @@ gallery:
 
 {% include figure image_path="https://lh3.googleusercontent.com/pw/ABLVV85j-TMljqfrT2mEM5GJrPYVhyz_Ow6xzGQ9MyTkdqWo24LbxzEABocVg_0zFxv_y8anpfGv3Cn_hmzwp2w3yXaxnlHo5fKtIVduool4HsHNyEgoUeW12UuIuPHo5quacmN86IcYKWWwK4iU8jbdc_II=w800-h532-s-no-gm?authuser=0" alt="this is a placeholder image" caption=""%}
 
+{% include figure image_path="https://lh3.googleusercontent.com/pw/ABLVV84kWXXCoA_iLm_X52BnhcCsOp73-V0wf59KKSlzrKAMHZFqok9Zb74ih8jFqcheKjtGkJjlAdFA8DWRsV-s2cEF1ol18isxSmEbmixfWYq6N66SSYVoyxKQsSx9K5cfIu1Z3CpDwA4fYzlJyAJgJIRn=w800-h532-s-no-gm?authuser=0" alt="this is a placeholder image" caption=""%}
+
+
+
 ## 購入後3ヶ月経過の様子
 
-購入直後の水中画像を撮り忘れたので3ヶ月経過後の様子．導入後から全く溶けることなく無事に成長しています．かなり簡単な種類という印象です．一口に組織培養のブセファランドラといっても結構難易度に差があるんですかね．
+現在3ヶ月程度が経過しています．導入後から全く溶けることなく無事に成長しています．かなり簡単な種類という印象です．一口に組織培養のブセファランドラといっても結構難易度に差があるんですかね．
 
 {% include figure image_path="https://lh3.googleusercontent.com/pw/ABLVV87fVcl8cZR5euBoi1slJugm0MQ_qJ_1d7iOfSmRpao31Jd2HkfpKbZxy-netkHkFpbSgGckKdYXt_JcGrw5C7OfcBIidAqM4Lb1r8Fq1pxHllyTFqL-VjePBHtzEoOqPa3bhlOxtIAVhaCXqF6UTh8W=w800-h532-s-no-gm?authuser=0" alt="this is a placeholder image" caption=""%}
 
