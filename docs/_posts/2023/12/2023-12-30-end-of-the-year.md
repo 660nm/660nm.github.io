@@ -26,7 +26,7 @@ gallery:
 
 現在維持しているのは120cm水槽と60cm水槽，それに加えて水上栽培で色々育てているような感じです．90センチ水槽は諸事情あって一旦畳んでいますが，また来年の夏頃から再開できる見通し．120cm水槽はほぼ今年からの運用開始で，90cm水槽とあまりメンテナンスの手間は変わりませんでした．水草水槽でよく用いられるサイズだけあってレイアウトや機材選定でストレスがなく，スペースの問題だけクリアできればおすすめできる水槽サイズという感想です．
 
-{% include figure image_path="" alt="" caption=""%}
+{% include figure image_path="https://lh3.googleusercontent.com/pw/ABLVV85hgdjnrrYaEe5lexXxhgK1Us6raNwGV1qm1ACBpdHQok-_eVdGU6y0yOMiEmvG-mHZU0fCpmjckoJiV8U6-7UFAstLNBIjkOuS9rcLsKQWsaczd6cU3nlFf67Ok1e_vE3zHi6YC_ZppSzUWqc8cTA7=w800-h532-s-no-gm?authuser=0" alt="" caption="立ち上げ1年程度でだいぶ水草も育ってきましたが，やはりブセは遅いです．"%}
 
 今年は個人的にとても忙しくて，とても水槽に時間をかけている余裕がありませんでした．120cm水槽は完全にブセファランドラをはじめとする陰性水草だけで構成してメンテナンスの手間がほぼなく，このような忙しい状況でも無事に状態を維持し続けることができました．今まで有茎草メインの水槽が多かったので，これは目からウロコというか，こんなに手間が違うのかというのは新鮮な発見でした．
 
