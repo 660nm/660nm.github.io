@@ -61,3 +61,4 @@ gallery:
 {% include figure image_path="https://lh3.googleusercontent.com/pw/ABLVV849rKh3-DIZXdPdZoz55wA-M2pz7qDpGVkpJWBCF651cANyQGjq2YdIsXE1Ug43U98fcBJrFWXwD8dv_5SJpAwu0Iovb3xjJXUpQh9K8ywbJH9QZ-9K9SIhBxKEZG7IS6OS8X--jvSbP4M_AVK5p44I=w800-h532-s-no-gm?authuser=0" alt="this is a placeholder image" caption=""%}
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yIz4XfnrG-U?si=PaGc5q47reWOv1T_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
